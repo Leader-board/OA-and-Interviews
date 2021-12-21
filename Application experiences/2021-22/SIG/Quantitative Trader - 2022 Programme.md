@@ -11,7 +11,7 @@
 
 This does not appear to be automatic, though I'm not sure on whether everyone gets it. 
 
-The exam contains 14 questions of a mainly probability nature (with a focus on expectations) and a couple of brain-teasers. While the questions are not particularly hard themselves, there's only 20 minutes in total, so one is likely to be pressured for time.
+The exam contains 14 questions of a mainly probability nature (with a focus on expectations) and a couple of brain-teasers. While the questions are not particularly hard themselves, there's only 20 minutes in total, so one is likely to be pressured for time. Example questions would be finding the expectation of a particular infinite stream or finding whether a particular bet is good (which would involve comparing the expected value with the value of the bet). The questions were a mix of MCQ and fill in the blanks (usually an integer). 
 
 ### Round 1 interview
 
