@@ -13,14 +13,14 @@ I suspect everyone gets it, though I'm not sure. 5 questions, 75 minutes. Howeve
 
 This was rescheduled twice (with very short notice!) - that being said the reasons cited (storm Barra) were valid and made sense, through irritating. This was by a phone call and not using a VoIP medium like Zoom or Skype. 
 
-She started the interview by telling that I did quite well in the coding examination (but as usual, refused to tell me what my score was). She then asked me generally HR questions (why Virtu, why quant) and a couple of brain teasers, which went (paraphrased from memory) like this:
+She started the interview by telling that I did quite well in the coding examination (but as usual, refused to tell me what my score was). She then asked me generally HR questions (why Virtu, why quant), asked me (out of the blue!) what market making was in my own words and a couple of brain teasers, which went (paraphrased from memory) like this:
 
 <blockquote>
 * What is the angle between the minute and hour hand of a clock at 5:15 PM? <br>
 * Follow-up: at what time would the minute and hour hand of a clock coincide after 5 PM?
 </blockquote>
 
-I dumped them. And that was the interview - fairly short and ended in ~15 minutes. 
+I finished them off quickly and correctly (in about 30 seconds). And that was the interview - fairly short and ended in ~15 minutes. 
 
 _Postscript:_ the answers to the brainteasers:
 
