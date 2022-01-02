@@ -31,7 +31,7 @@ Warm regards, <br>
 (recruiter)
 </blockquote>
 
-Notice that this isn't a technical interview. PLus I was sent a couple of brochures that detailed the roles Improbable had in general - this confused me since I wasn't sure at that point whether I was being considered for _any_ role at Improbable _or_ the role I had applied for. 
+Notice that this isn't a technical interview. Plus I was sent a couple of brochures that detailed the roles Improbable had in general - this confused me since I wasn't sure at that point whether I was being considered for _any_ role at Improbable _or_ the role I had applied for. 
 
 Still, I scheduled the interview for November 29<sup>th</sup>. I didn't want to schedule it that late as I was concerned it could be too late, but there were no earlier dates.
 

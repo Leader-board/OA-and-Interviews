@@ -16,7 +16,7 @@ interview as a result (Databricks and JP Morgan being examples).
 ![Text Description automatically generated](./media/image2.png)
 
 Figure 2 Constraints provided for a HackerRank problem. You’re going to
-see this in nearly every OA question and is a <u>huge</u> clue for you.
+see this in nearly every OA question and is a <b>huge</b> clue for you.
 
 Use the information in a question to your advantage! It will often
 implicitly tell you how efficient your algorithm should be to get full
@@ -39,9 +39,9 @@ itself! With that in mind,
 A good idea is to start from an inefficient solution and work your way
 upwards, improving the complexity along the way. You could find out (for
 HackerRank) that a supposedly inefficient solution actually works well!
-Also note that while an inefficient but working solutions will get you
+Also note that while an inefficient but working solution will get you
 some points, an efficient but broken solution is useless as no marks are
-given for “effort”. Plus you can often “game” the system a bit in such
+given for “effort” (in general). Plus you can often “game” the system a bit in such
 cases to collect a few more points by leveraging the properties of edge
 cases, for instance.
 
@@ -120,7 +120,7 @@ SAT/ACT of coding). As a result,
     the unproctored variant, but it is recommended to opt-in to
     proctoring since an unproctored test result cannot be sent to
     companies that require proctoring.
-
+  
 The nature of the GCA means that there is significantly more uniformity
 in the questions you’ll get compared to the other test types. For the
 70-minute test, you’ll get 4 questions.
@@ -152,7 +152,7 @@ Figure 3
 A score of at least 835 is good, with 760s being a “C” grade (though
 companies like Capital One seem to be OK with scores in the 710 range).
 Regardless, if you do not do well, you can retake after 14 days (and
-hence the “damage” is limited to the one company whose score you sent).
+hence the “damage” is limited to the one company whose score you sent). <br> It is worth noting that an exception to the 14-day cooldown period applies if you took an unproctored variant of the test first and then are asked to take a proctored form - in this case you are permitted to take the proctored version even without the 14-day cooldown applying. This is described at [this CodeSignal article](https://support.codesignal.com/hc/en-us/articles/4414136462103).
 
 ![Graphical user interface, Teams Description automatically
 generated](./media/image4.png)
@@ -168,7 +168,7 @@ cases right (and get a score like 210/300) but get a scaled score that
 seemed like you got nothing. Partial marking is almost non-existent and
 you need to get the entire question right to get points for it in
 practice. Also notice above that you’ll get a triangular graph that show
-your implementation, problem solving and speed – do not worry about them
+your implementation, problem-solving and speed – do not worry about them
 too much. The scaled score out of 850 is the most important.
 
 It may help to try out some CodeSignal GCA practice tests (which you can

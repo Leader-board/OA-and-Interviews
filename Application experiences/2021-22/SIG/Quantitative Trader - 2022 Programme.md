@@ -17,7 +17,7 @@ The exam contains 14 questions of a mainly probability nature (with a focus on e
 
 This was with a recruiter from HR. Notice that while they are from HR, they usually have significantly better mathematical understanding that average (in fact, their application for a recruiter wants potential candidates to have done coursework in mathematics). 
 
-The interview was a split between stock (non-technical) and probability-based questions. I was served five probability question (again focusing on expectations, through there was one on Bayes' theorem). While I did get them all, I had to request hints for a couple. Preparing from quant guides such as Heard on the Street or similar should help. 
+The interview was a split between stock (non-technical) and probability-based questions. I was served five probability questions (again focusing on expectations, through there was one on Bayes' theorem). While I did get them all, I had to request hints for a couple. Preparing from quant guides such as Heard on the Street or similar should help. 
 
 The non-technical portion was generally standard with some tricky questions. While the classic ones (why SIG, why quant) were asked, tricky ones included:
 * how I did "so well" in my undergraduate - while I had a first, it was a very low first and that isn't a case of "done so well" given that getting a first isn't impressive _at all_.
