@@ -1,4 +1,4 @@
-## Online Assessment/Coding Tests
+# Online Assessment/Coding Tests
 
 ![Graphical user interface, text, application Description automatically
 generated](./media/image1.png)
@@ -43,11 +43,11 @@ Also note that while an inefficient but working solution will get you
 some points, an efficient but broken solution is useless as no marks are
 given for “effort” (in general). Plus you can often “game” the system a bit in such
 cases to collect a few more points by leveraging the properties of edge
-cases, for instance.
+cases, for instance. Similarly, don't bother about "beautifying" or making code clean unless otherwise asked to - most of the time, your code will not even be read at all! Working and efficient but dirty code is almost always better than clean code that doesn't work.
 
 A common question is whether you can look up on the internet when
 completing these tests. The answer is generally yes, unless you’ve been
-told not to. This is for syntaxial searches, not the entire question (so
+told not to. This is for syntactical searches, not the entire question (so
 asking on how to retrieve from a Java TreeMap is fine) – plagiarism
 checkers are there which will detect copied solutions to the problem.
 
@@ -58,12 +58,12 @@ skills fresh. Doing the [daily
 challenges](https://leetcode.com/discuss/general-discussion/655704/november-leetcoding-challenge-new-feature-and-rewards)
 is a good way.
 
-### Providers
+## Providers
 
 There are some major providers that run these tests, some of which are
 given below:
 
-*HackerRank*
+### HackerRank
 
 These tests are designed by the company using (generally) HackerRank’s
 own questions or that of the company. Usually, you are given a number of
@@ -89,7 +89,7 @@ case.
 
 It used to be the case that HackerRank was known for making you have to do the I/O (input/output) yourself, but this is rare now.  
 
-*Codility*
+### Codility
 
 Mostly similar to HackerRank, with a major difference. You are not given
 any information on the hidden test cases, which means that you will not
@@ -98,7 +98,7 @@ given a score either), even after completing the test (with the rare
 exception, like AMEX). Also, unlike HackerRank, once you “submit” a
 solution during a test, you cannot make any changes to it.
 
-*CodeSignal*
+### CodeSignal
 
 Normally used by companies for their GCA (General Coding Assessment)
 test, which is a standardised coding examination (think of it as the
@@ -117,7 +117,7 @@ SAT/ACT of coding). As a result,
     identification before the test and have them record you (though they
     say that companies will not be provided proctoring data and is only
     used to confirm that you didn't cheat). A minority will be fine with
-    the unproctored variant, but it is recommended to opt-in to
+    the unproctored variant, but it is recommended to opt in to
     proctoring since an unproctored test result cannot be sent to
     companies that require proctoring.
   
@@ -181,7 +181,7 @@ questions are written by the company, much like HackerRank, and there is
 no scaled score), in which case most of what was written for the HackerRank section would
 apply here.
 
-*Hirevue*
+### Hirevue
 
 While relatively less common as a coding assessment platform, companies
 like BlackRock and JP Morgan use them, so it’s still around. The main
@@ -196,18 +196,18 @@ questions; in rare cases you may be given a more specialised form of the
 test (such as a front-end variant). Those kinds of tests are out of
 scope for this guide.
 
-### Non-coding tests
+## Non-coding tests
 
 This section covers some common non-coding tests that you may be asked
 to take.
 
-*Mathematics (Goldman Sachs only)*
+### Mathematics (Goldman Sachs only)
 
 Goldman Sachs is unique in that during the application process (for
 Engineering), you are given a choice on whether to take the purely
 coding examination (of 120 minutes) or the combined CS + Maths exam (of
 180 minutes). As of writing, the latter is required only if you’re
-applying for the strats sub-division and is optional otherwise. The CS
+applying for the strats (quantitative strategists) subdivision and is optional otherwise. The CS
 portion is just like a standard HackerRank examination (one LeetCode
 easy + one LeetCode medium), the below describes the 60-minute
 mathematics portion of the test. Note that the 180 minutes in the test
@@ -231,7 +231,7 @@ difficulty levels, and some of them will be tricky. It is not required
 to get a perfect mark on the mathematical section to proceed, though aim
 to get as much as you can.
 
-*Correlation One (C1)-based tests*
+### Correlation One (C1)-based tests
 
 These are tests you may be asked to take for some data science and
 quantitative roles (examples include DRW and GSA Capital) and is
@@ -239,7 +239,7 @@ somewhat difficult to do well. Knowledge of some machine learning (the
 Intro to ML course should be enough) is expected, plus very good
 probability, statistics, and linear algebra (generally to the level of
 a university-level module in each of them). It’s usually 30 minutes/8 questions or 60
-minutes/15 questions, and the questions are time-consuming and it’s easy
+minutes/15 questions, the questions are time-consuming, and it’s easy
 to run out of time, so good time management is very important. As with
 some others, you are not given a score upon completion.
 
