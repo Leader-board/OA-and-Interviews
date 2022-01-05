@@ -34,9 +34,23 @@ No technical questions were asked. One thing I missed is that I thought I would 
 
 ### Notification of failure
 
-Was by an email three days after the interview. A request for feedback did not get answered as of writing. 
+Was by an email three days after the interview. ~~A request for feedback did not get answered as of writing.~~ **Update (January 4, 2022)** I got a reply after 3 weeks (but then the out of office message said that the recruiter would be on holiday till December 17th?). But then my request was unfortunately thrown out:
+
+<blockquote>
+
+Hi Leader,
+
+I am so sorry for the delay! I was on a long break for the holidays, but thanks for reaching out. Unfortunately, we are unable to share feedback in that stage of the interview process. Thank you though for considering Quora and feel free to keep in touch for future opportunities!
+
+Cheers,
+
+(recruiter) <br>
+Recruiting | Quora
+
+</blockquote>
 
 ### Takeaway
 
+* This was my first time in my four years of attempts that I did not get kicked out without an interview. 
 * I had my interviews all at night (9 PM GMT +3). This is not a coincidence - that was the earliest time I could schedule my interview as I had to work with their 10 AM - 5 PM PST (Pacific Standard Time) requirement!
 * Turns out that Round 2 was a "lightweight" round and that the real challenge comes in Round 3 (the virtual onsites). So it would be a valid question to ask on why I failed in such a round. As noted above, I did not get feedback on why I failed. One part I think I might have messed up was in a section when I was asked something on the lines of "would you be OK to do full-stack work" (responding to my preferences) - to which I replied "I'm not sure; I will need to think". While my answer was honest, I suspect it may not have been the "right" answer. 

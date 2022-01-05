@@ -21,7 +21,7 @@ A couple of days after doing the first entrance exam, I was asked to do a "job s
 Well done, you have been selected to take part in the next stage of the assessment process! This is a Job Simulation assessment and will give you greater insight into the business area you have applied to. The assessment will cover verbal, written skills and behavioural alignment to HSBC using video recording, written response and rank-order questions. The assessment takes approximately 35 minutes to complete, if you think you need additional time to support you with any adjustments please reply to this email.
 </blockquote>
 
-Now, the actual exam was from the Markets and Securities Services division. Despite the title of the role I applied for, this surprised me because I was of the understanding that I applied for a quantitative finance role, and the questions appeared to be the same as a non-quant markets role. That is, it didn't test anything quantitative, mathematical and didn't have a coding section either. The questions I had included:
+Now, the actual exam was from the Markets and Securities Services division. Despite the title of the role I applied for, this surprised me because I was of the understanding that I applied for a quantitative finance role, and the questions appeared to be the same as a non-quant markets role. That is, it didn't test anything quantitative (except basic data analysis), mathematical and didn't have a coding section either. The questions I had included:
 
 * a video question that gave a schedule and asked me how I would arrange it given a set of constraints (the schedule was set up in such a way that it would not be possible to complete _every_ one)
 * some video questions that appeared to be behavioral (that is, classic SJT/situational judgement test-styled)
@@ -65,7 +65,7 @@ As expected, the email had nothing useful in it, and no, the "Feedback Report" a
 
 * It should be noted that this role (being an "Associate" and not an "Analyst") has relatively higher requirements compared to most other HSBC graduate roles. Specifically, a "quantitative" masters degree is mandatory (which I would have). Hence I was a bit surprised with the Hirevue interview, but then arguably that is not an excuse. The role is definitely interesting in itself and hence this failure did sting. 
 * This is my third consecutive year I've applied to HSBC (for three different roles), and completes my hat-trick of failures there. All at the same pesky job simulation stage...
-* It appears that I am so bad that I didn't even meet a "minimum" benchmark. I inferred this from looking at [reports on The Student Room](https://www.thestudentroom.co.uk/showthread.php?t=7100404), where the majority reported getting an email that they passed a "minimum benchmark" which in term only means that they are in consideration for selection to the next stage. 
+* It appears that I am so bad that I didn't even meet a "minimum" benchmark. I inferred this from looking at [reports on The Student Room](https://www.thestudentroom.co.uk/showthread.php?t=7100404), where the majority reported getting an email that they passed a "minimum benchmark" which in turn only means that they are in consideration for selection to the next stage. 
 
 ### Appendix: Feedback report after the immersive assessment
 

@@ -102,6 +102,8 @@ So she didn't want to answer the question - this is a major source of frustratio
 
 But then she came back again a day later and formally started the process, asking me to answer questions such as my expected month and year of graduation and similar. I've never gotten this far before! After that, I was invited for Round 1 interview - this would end up being my first ever interview of this nature. 
 
+Note: I didn't get an automated confirmation email after applying, noting since I've seen queries about it.
+
 ### Round 1 interview
 
 This was with (interviewer) and on a Zoom-based platform, using a Coderpad link which didn't allow for any form of compilation. Unfortunately, I did sign a NDA and hence full description of the questions cannot be provided. 
