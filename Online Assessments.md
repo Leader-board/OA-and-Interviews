@@ -243,7 +243,7 @@ minutes/15 questions, the questions are time-consuming, and it’s easy
 to run out of time, so good time management is very important. As with
 some others, you are not given a score upon completion.
 
-*Situational Judgement Tests (SJT)*
+### Situational Judgement Tests (SJT)
 
 These are non-technical tests where you’re given a hypothetical
 situation and are asked what you would do in that case. They can come
@@ -260,7 +260,7 @@ See
 <https://www.imperial.ac.uk/careers/applications-and-interviews/psychometric-tests/>
 for more information.
 
-*Game-based assessments*
+### Game-based assessments
 
 They are tests (such as Pymetrics and Arctic Shores) which make you play
 some “games” that claim to get to measure various cognitive and
