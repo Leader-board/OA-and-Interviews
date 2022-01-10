@@ -68,7 +68,7 @@ given below:
 These tests are designed by the company using (generally) HackerRank’s
 own questions or that of the company. Usually, you are given a number of
 questions to solve in a fixed time frame (anywhere from 30 minutes to 2
-hours<sup>[1]</sup>). You’re generally, but not always, given freedom on the
+hours [^1]). You’re generally, but not always, given freedom on the
 language you choose to code.  
   
 Once you code, there are two kinds of test cases that your code will be
@@ -128,18 +128,46 @@ in the questions you’ll get compared to the other test types. For the
   - Q1 and Q2 are gimmes and should be crushed as soon as possible.
 
   - Q3 is usually an implementation-heavy LeetCode Medium problem and
-    from experience is usually *bashing*-friendly. What this means is
+    from experience is usually a 2-D matrix problem that is very *bashing*-friendly. What this means is
     there isn’t much in the way of algorithmic complexities to bother
     with – the solution is long, but you simply need to do what it asks
     you to do without worrying about time complexity and such.
+    <details>
+    <summary>LeetCode questions that approximate a CodeSignal Q3</summary>
+    
+    * https://leetcode.com/problems/spiral-matrix/
+    * https://leetcode.com/problems/spiral-matrix-ii/
+    * https://leetcode.com/problems/rotate-image/
+    * https://leetcode.com/problems/diagonal-traverse/
+    * https://leetcode.com/problems/reshape-the-matrix/
+    * https://leetcode.com/problems/toeplitz-matrix/
+    * https://leetcode.com/problems/image-overlap/
+    * https://leetcode.com/problems/transpose-matrix/
+    
+    Aim to get them in 15-20 minutes or so. 
+    </details>
 
   - Q4 is a purely algorithmic LeetCode Medium problem – here you will
     need to focus on getting the time complexity optimal. From
     experience Q4 normally involves a clever application of hashmaps and
-    it is expected that you know how to work with it properly. While
+    it is expected that you know how to work with it properly inside and out. While
     greedy problems are technically possible, DP (dynamic programming)
     questions will *not* show up in Q4 (and this test in general).
 
+    <details>
+    <summary>LeetCode questions that approximate a CodeSignal Q4</summary>
+
+      * https://leetcode.com/problems/longest-consecutive-sequence/
+      * https://leetcode.com/problems/4sum-ii/ (note: it's unlikely that a CodeSignal Q4 will ask for an O(_n_<sup>3</sup>) solution as optimal, but this is still good practice)
+      * https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/ (this would be easier than average)
+      * https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
+      * https://leetcode.com/problems/array-of-doubled-pairs/
+      * https://leetcode.com/problems/3sum-with-multiplicity/
+      * https://leetcode.com/problems/count-number-of-nice-subarrays/
+  
+    Aim to get them in 20-30 minutes or so.
+    </details>
+    
 Now what about scores? The scoring range is 300 to 850, but anyone
 making an attempt at any question will get at least 600. Hence the below
 score ranges are more common.
@@ -277,8 +305,11 @@ some candidates. If you’re running into a situation where you
 consistently do well in coding/mathematical examinations but very poorly
 in Pymetrics or SJT-based tests and are not otherwise diagnosed, please
 consider getting tested for autism or a SpLD (specific learning disability).
-If you are diagnosed, please disclose this - some companies like Flow Traders appear to be inflexible, but you may not have a choice as you are likely to be trashed either way. 
-1.  In rare cases, they may be longer, or “take-home” styled in some
+If you are diagnosed, please disclose this - some companies like Flow Traders appear to be inflexible, but you may not have a choice as you are likely to be trashed either way.
+
+<!-- footnotes -->
+
+[^1]: In rare cases, they may be longer, or “take-home” styled in some
     cases (for instance Tibra and Optiver) where you’re given up to 2 –
     3 days from the time you start. The questions are no different
     usually.
