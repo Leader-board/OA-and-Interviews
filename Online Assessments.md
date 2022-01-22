@@ -182,6 +182,7 @@ companies like Capital One seem to be OK with scores in the 710 range).
 Regardless, if you do not do well, you can retake after 14 days (and
 hence the “damage” is limited to the one company whose score you sent). <br> It is worth noting that an exception to the 14-day cooldown period applies if you took an unproctored variant of the test first and then are asked to take a proctored form - in this case you are permitted to take the proctored version even without the 14-day cooldown applying. This is described at [this CodeSignal article](https://support.codesignal.com/hc/en-us/articles/4414136462103).
 
+**How long are my results valid for?** Your test results are technically valid without an expiration date. However, companies have the right to set a limit on how old a test result must be, as described at [here](https://support.codesignal.com/hc/en-us/articles/1500001964122--Setting-age-limits-for-certification-results). What this means is that if you have a company that wants, for instance, only results in the last 6 months, but your latest result was earlier than that, you will not have a choice but to retake the exam, and a similar issue can happen if you had an older result that was better than a "valid" test result. Of course, those results will still be valid for those companies that don't use this feature, and you retain the right to retake the test even if you do have a valid result that meets this age limit. 
 ![Graphical user interface, Teams Description automatically
 generated](./media/image4.png)
 
