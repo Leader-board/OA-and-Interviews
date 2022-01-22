@@ -131,8 +131,110 @@ Facebook Recruiting Team
 
 What a joke. Messages like these do not help me at all. Yet you ask me to provide feedback...
 
+### Getting the feedback: GDPR
+
+_Written on January 28th, 2022_
+
+Thanks to a [couple of posts](https://www.reddit.com/r/cscareerquestionsEU/comments/s4gbgk/use_gdpr_to_read_my_scorecards/) on Reddit, I realised that I could potentially circumvent their "policy" of not giving feedback on failures and invoke the GDPR to get my feedback. So I did that (to mydataprivacyrights@fb.com), utilising the template provided in the linked Reddit post to Facebook:
+
+<blockquote>
+
+Hi,
+
+I would like access to all of my interview feedback data for the SWE New Grad phone interview for London, UK. I interviewed on October 11, 2021.
+
+This is a formal GDPR request to access this data.
+
+Regards, <br>
+Leader Board
+</blockquote>
+
+And they came back to me:
+
+<blockquote>
+
+Hi Leader,
+
+Thanks for contacting us.
+
+Based on the information you provided, it looks like you're trying to exercise your rights under the EU's General Data Protection Regulation (GDPR), with regard to recruiting and HR related information.
+
+We're looking into your request and will respond shortly.
+
+Thanks,
+
+People Data Privacy Team
+
+</blockquote>
+
+Their definition of "will respond shortly" is about two weeks - but this is what I received 13 days later:
+
+<blockquote>
+
+Hi Leader
+
+We refer to your personal data access request from 15 January, 2022 for personal data access for interview feedback. We have attached our response.
+
+Please note that for security reasons, the attached document is password protected. We suggest that in order to ensure secure transmission, we will provide the password to you separately. Please respond indicating a different email address or physical address for this purpose. However, if this poses an issue for you, please confirm that you are comfortable receiving this password at the same email address.
+
+Thank you, <br>
+People Data Privacy Team
+</blockquote>
+
+Attached was a PDF that required a password (and supposedly encrypted and hence not crackable by online PDF password cracker tools), and I had to either give them another email/location for that or confirm that it was fine to send the password to the same email! That's odd to me. But then I did that, and the same day got the "decryption key". 
+
+The PDF itself consisted of five pages. Four of them are legalese about Facebook and the GDPR - the feedback itself is in the last page:
+
+![img.png](../../../media/facebook2.png)
+
+<blockquote>
+
+**Feedback for Leader Board** 
+
+**Software Engineer (University Grad), (London, United Kingdom), Meta, 2021**
+
+Feedback indicated that the candidate showed reasonable problem solving, sloppy
+coding, ineffective communication, unproductive verification, and failure to address
+feedback. It was noted that the candidate had conceptually solved both problems quickly,
+but using sub-optimal approaches, and was able to assess the complexities accurately.
+Additionally, it was noted that the candidate should be more diligent when verifying their
+solutions, especially if hints are being given about a problematic place or a specific test
+case. Feedback also indicated that the candidate should look to improve their naming and
+reducing global or object state. It was noted that the candidate should use return values,
+parameters, and helper functions where appropriate. Also, it was noted that the candidate
+was praised for asking questions, ensuring that they fully understood the problems.
+
+Feedback indicated that the candidate coded the first (easy) problem in a broken way due
+to missing a recursive call (or a loop) in one of the two branches, and sloppily due to using
+outside state for temporaries and the return value; coded the second problem with
+redundant state; and both with non-descriptive variable names. Additionally, it was noted
+that the candidate failed to find the implementation error in the easy problem even after it
+was pointed out where to look and after a test case tailored for it was provided. It was
+noted that the candidate failed to take interviewers hints or advice on board but instead
+kept insisting that their way would work. Furthermore, it was noted that the candidate used
+wrong technical terms to communicate the intended solution and failed to explain it. It was
+also noted that the candidate correctly assessed both space and time complexities. When
+compared to other candidates, the decision was made to not move forward with the
+candidate.
+
+</blockquote>
+
+So, this is interesting. Marking the rejection feedback itself, it's a good piece of feedback in general (one of the _best_ I've gotten this year) - clearly gives an indication of (what they thought of was) my weaknesses and how I performed in the two questions, albeit briefly. Weaknesses included no statistical data, no explanation on what in particular caused me to fail overall (you give a bunch of faults, but no clarity of which, if any, sealed my fate), and could be more in-depth by question (see my reflection on the feedback). Note that I'm not commenting on the correctness of their feedback at this stage. This should be provided by default to every candidate - it really can't be that hard, can it? I really shouldn't have to take the GDPR route to get this - kind of shameful from Facebook.   
+
+Now, reflecting on the feedback they provided and comparing to what I _thought_ was my performance on the interview:
+
+* I didn't know that they cared on cleanliness ("sloppy coding"); don't think I particularly focused on that during the interview.  I was not as surprised on the communication aspect given my earlier thoughts in this write-up. 
+* "candidate had conceptually solved both problems quickly, but using sub-optimal approaches" - eh? I can understand why Q2 may be thought of as sub-optimal (see the _Takeaway_ section), but my answer for Q1 was optimal to the best of my knowledge (O(_n_) time) - if not, that's a serious and uncaught bug that I need to fix! 
+* "it was noted that the candidate should be more diligent when verifying their solutions, especially if hints are being given about a problematic place or a specific test case" - a reason why you should have given this earlier. I _think_ it's for Q2, but I can't recall the exact instance which may have caused this feedback, and am not completely sure on what this means either.
+* "Feedback also indicated that the candidate should look to improve their naming and reducing global or object state" - looks like from the cleanliness section. This is useful feedback. Same for the ones in the second paragraph that deal with this section.
+* "Additionally, it was noted that the candidate failed to find the implementation error in the easy problem" - I just can't recall where that could have happened (note that isn't a statement of denial).
+* "It was noted that the candidate failed to take interviewers hints or advice on board but instead kept insisting that their way would work." - that happened in Q2. I found it hard to communicate with this aspect on the interviewer. My intention was not to insist on a particular approach, but I was not getting what the interviewer was hinting at unfortunately.
+* "the candidate used wrong technical terms to communicate the intended solution and failed to explain it." - what? I don't recall this happening anywhere - again if true, I need to fix that urgently since it's a serious problem. I think it would help if they gave the exact location where that happened. 
+
+But overall, it's nice that I got this - helps me in understanding _some_ of my mistakes in the interview and I hope this helps others as well.
+
 ### Takeaway
 
 * The non-standard way I managed to not get ghosted in my fourth attempt should be noted.
-* With a failure that didn't tell me why I failed, I had no idea on what I missed. I looked at other users' interviewing experiences and some did say that they got through with only solving one question out of two. That made me wonder - what did I miss? Communication challenges could be a part, but I started digging into that second question later and realised I may not have given a perfectly optimal solution. My solution was O(log _n_) time and O(_n_) space - however I think there was a O(1) time option available.
+* With a failure that didn't tell me why I failed (update: see the GDPR section; no longer true), I had no idea on what I missed. I looked at other users' interviewing experiences and some did say that they got through with only solving one question out of two. That made me wonder - what did I miss? Communication challenges could be a part, but I started digging into that second question later and realised I may not have given a perfectly optimal solution. My solution was O(log _n_) time and O(_n_) space - however I think there was a O(1) time option available.
 * The bug stems from a conceptional blunder on linked lists. I thought that accessing a specific element in a linked list is O(_n_). This is correct indeed - but what I missed is that given a hashmap, you _can_ access a specific element in constant-time (which was a solution in the original LRU Cache problem)! The root cause of my error was my forgetting that I could have used linked lists from first principles instead of relying on Java's linked list library. 
