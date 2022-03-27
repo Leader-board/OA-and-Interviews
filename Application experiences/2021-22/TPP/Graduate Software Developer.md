@@ -182,16 +182,16 @@ Let’s say that you have 25 horses, and you want to pick the fastest 3 horses o
 
 There are many websites that give a solution for this problem, so I won't reproduce it here. A search on any search engine for "25 horses puzzle" should be enough.
 
-The interview then asked whether I had seen this problem in the past, to which I responded that I did (Optiver gave me a variant of it one back in 2020), though not recently. I expected him to give me a different problem, but instead he told me to solve it anyway! I got it right in a few minutes (while I didn't remember the solution as such, I think the fact that I saw the problem in the past was to my advantage). He did mention that I was not _expected_ to get the problem right and that the thought process was more important, but I'm doubtful on that claim. The best way to prepare for these puzzles would be the brainteaser section of quant interview guides such as Heard on the Street.
+The interview then asked whether I had seen this problem in the past, to which I responded that I did (Optiver gave me a variant of it back in 2020), though not recently. I expected him to give me a different problem, but instead he told me to solve it anyway! I got it right in a few minutes (while I didn't remember the solution as such, I think the fact that I saw the problem in the past was to my advantage). He did mention that I was not _expected_ to get the problem right and that the thought process was more important, but I'm doubtful on that claim. The best way to prepare for these puzzles would be the brainteaser section of quant interview guides such as Heard on the Street.
 
 <details>
     <summary>What happened back in 2018</summary>
 I was given a different brainteaser problem (involving marbles of some kind), but I didn't do well then (partially to my relative inexperience), having to take hints from the interviewer. 
  </details>
 
-Then it was turn to ask me questions. I asked mine (this is not an exhaustive list):
+Then it was my turn to ask questions. I asked mine (this is not an exhaustive list):
 
-* do you solve puzzles in your job, given how puzzle-focused you are till date? No.
+* do you solve puzzles in your job, given how puzzle-focused you are in the recruitment process? No.
 * Then why do you force people to take an in-person test, and give puzzles at both the entrance exam stage and the interview? Because they use as a filter to look for problem-solving abilities (regarding the in-person exam, said that he did not know and that it was the HR that controlled it). I also asked him on why they have an unnecessarily high A-Level bar, and was told the same reason in that they have a lot of applications and use this to whittle down. That answer was seriously very unconvincing, because that did not explain why they took a lot of effort (and money) to set up entrance exam centers, amongst others, and made me think that they were explicitly fine with elitism. 
 * why an in-person interview was forced when this could well be online? Because apparently it allows them to see aspects that an online interview won't cover (this answer did not convince me)
 
