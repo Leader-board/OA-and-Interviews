@@ -183,7 +183,7 @@ People Data Privacy Team
 
 Attached was a PDF that required a password (and supposedly encrypted and hence not crackable by online PDF password cracker tools), and I had to either give them another email/location for that or confirm that it was fine to send the password to the same email! That's odd to me. But then I did that, and the same day got the "decryption key". 
 
-The PDF itself consisted of five pages. Four of them are legalese about Facebook and the GDPR - the feedback itself is in the last page:
+The PDF itself consisted of five pages. Four of them were legalese about Facebook and the GDPR - the feedback itself is in the last page:
 
 ![img.png](../../../media/facebook2.png)
 
@@ -238,4 +238,4 @@ But overall, it's nice that I got this - helps me in understanding _some_ of my 
 * The non-standard way I managed to not get ghosted in my fourth attempt should be noted.
 * With a failure that didn't tell me why I failed (update: see the GDPR section; no longer true), I had no idea on what I missed. I looked at other users' interviewing experiences and some did say that they got through with only solving one question out of two. That made me wonder - what did I miss? Communication challenges could be a part, but I started digging into that second question later and realised I may not have given a perfectly optimal solution. My solution was O(log _n_) time and O(_n_) space - however I think there was a O(1) time option available.
 * The bug stems from a conceptional blunder on linked lists. I thought that accessing a specific element in a linked list is O(_n_). This is correct indeed - but what I missed is that given a hashmap, you _can_ access a specific element in constant-time (which was a solution in the original LRU Cache problem)! The root cause of my error was my forgetting that I could have used linked lists from first principles instead of relying on Java's linked list library. 
-* GDPR is a good thing - and Facebook _can_ provide (useful) feedback!
+* GDPR is a good thing - and Facebook _can_ provide (useful) feedback! Also, you can indeed get feedback on a successful application, which someone sent over to me. Unfortunately, I am not permitted to disclose its contents. This is not my choice - the person was apparently concerned about "doxing".

@@ -14,7 +14,7 @@
 
 Note that you only get it if you get to the first-round interview - so this isn't something that everyone gets.
 
-This was a standard Codility examination - 3 questions, 80 minutes. Two of them were LeetCode easy and one was a LeetCode Medium (greedy). Finished in about half time. 
+This was a standard Codility examination - 3 questions, 80 minutes. Two of them were LeetCode easies and one was a LeetCode Medium (greedy). Finished in about half time. 
 
 ### Round 1 interview
 
@@ -72,7 +72,7 @@ is the set of appointments and meetings that they have in that time
 period. 
 </blockquote>
 
-* Round 2 was a design-based question (appeared to be related to distributed systems). This went better since it contained themes of concurrency and architecture which is something I like, but I was still confused on why I was being asked these kinds of questions and didn't know how well I did in practice.
+* Round 2 was a design-based question (appeared to be related to distributed systems). This went better since it contained themes of concurrency and architecture which is something I like, but I was still confused on why I was being asked these kinds of questions and didn't know how well I did in practice. The below was the scenario; I was asked questions such as whether this scale could cause an issue, and what would happen given multiple computers. ![img.png](../../../media/microsoft2.png)
 * Round 3 was a standard LeetCode Medium question (coin change) - that was quite straightforward and I think I did well there. There were some related followups (the original problem they asked was greedy-friendly, and hence DP was a follow-up though I wasn't asked to code it), but I only got one full problem.
 * Round 4 was a networking-based question that was wrapped up as a brainteaser/problem solving question (so it would not look like networking experience was required). The question read like this (I tried to use the concept of entropy and bits), and there were a lot of followups to this one. 
 
@@ -83,7 +83,10 @@ They discover that not all pieces of paper get to their intended recipient, but 
 They now have an unreliable way of sending short messages to one another. What system could they set up so that they can reliably send each other messages of any length?
 </blockquote>
 
-One important aspect is that they asked many "competency" questions (simply SJT/situational judgement questions) which I found hard to answer and I think I did poorly there.
+One important aspect is that they asked many "competency" questions (simply SJT/situational judgement questions) which I found hard to answer (considering that they didn't want to clarify) and I think I did poorly there. To give a couple of examples:
+
+* a question was asked about whether I worked with UX/user-interface design and my experience with it - I don't do UX design!
+* which Microsoft product would I most change - the problem I found was that the wording implied that a Microsoft product was broken, making me really confused.
 
 ### The failure notification
 

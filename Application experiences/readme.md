@@ -11,7 +11,6 @@ Provide a centralised location where users can share and read about interviews a
 
 ### Notes and rules
 
-* Metric units only. 
 * There is no restriction in location - initially it may seem like the roles are biased towards Europe, but that's because I applied for roles there. 
 * Dates should include the month name in full.
 * Mention the location and date, putting them in the right year group (which is by recruiting season, so a role for September 2021 goes in the 2020-21 category)

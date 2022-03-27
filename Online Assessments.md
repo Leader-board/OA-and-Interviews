@@ -98,6 +98,8 @@ given a score either), even after completing the test (with the rare
 exception, like AMEX). Also, unlike HackerRank, once you “submit” a
 solution during a test, you cannot make any changes to it.
 
+It is hence important to validate correctness of a solution by running it with custom test cases and watching out for corner cases - it is easy to make simple errors that can badly affect the score. 
+
 ### CodeSignal
 
 Normally used by companies for their GCA (General Coding Assessment)
@@ -159,18 +161,19 @@ in the questions you’ll get compared to the other test types. For the
 
       * https://leetcode.com/problems/longest-consecutive-sequence/
       * https://leetcode.com/problems/4sum-ii/ (note: it's unlikely that a CodeSignal Q4 will ask for an O(_n_<sup>3</sup>) solution as optimal, but this is still good practice)
-      * https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/ (this would be easier than average)
+      * https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
       * https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
       * https://leetcode.com/problems/array-of-doubled-pairs/
       * https://leetcode.com/problems/3sum-with-multiplicity/
       * https://leetcode.com/problems/count-number-of-nice-subarrays/
+      * https://leetcode.com/problems/k-diff-pairs-in-an-array/
   
     Aim to get them in 20-30 minutes or so.
     </details>
     
 Now what about scores? The scoring range is 300 to 850, but anyone
-making an attempt at any question will get at least 600. Hence the below
-score ranges are more common.
+making an attempt at any question will get at least 600. Hence, the below
+score ranges are more common:
 
 ![Text Description automatically generated](./media/image3.png)
 
@@ -194,7 +197,7 @@ Disregard it. Also, unlike most other testing platforms, CodeSignal is
 *very* unforgiving with incomplete solutions (which are likely in Q4
 with suboptimal solutions) – it may seem like you got 70% of the test
 cases right (and get a score like 210/300) but get a scaled score that
-seemed like you got nothing. Partial marking is almost non-existent and
+seemed like you got nothing. Partial marking is almost non-existent, and
 you need to get the entire question right to get points for it in
 practice. Also notice above that you’ll get a triangular graph that show
 your implementation, problem-solving and speed – do not worry about them
@@ -220,7 +223,7 @@ isn’t the case for Hirevue. Plus you cannot even enter your own custom
 test cases, and there is little information on how they actually grade
 your solution.
 
-**Note for JP Morgan**: you'll be told that there would be some coding questions, some video and some "behavioural" questions. The "behavioural" ones are just survey-like questions and not something to be bothered with. Now, for the coding questions. You'll be given (usually) a LeetCode easy and a LeetCode Medium. Immediately after completing each question, you'll be asked to respond on video, how you solved the problem and what you'd do given more time (basically explaining your thought process). This is the "video" portion of the test - there are any "traditional" video questions to answer. 
+**Note for JP Morgan**: you'll be told that there would be some coding questions, some video and some "behavioural" questions. The "behavioural" ones are just survey-like questions and not something to be bothered with. Now, for the coding questions. You'll be given (usually) a LeetCode easy and a LeetCode Medium. Immediately after completing each question, you'll be asked to respond on video, how you solved the problem and what you'd do given more time (basically explaining your thought process). This is the "video" portion of the test - there aren't any "traditional" video questions to answer. 
 
 It should be noted that the above covers only algorithmic-style
 questions; in rare cases you may be given a more specialised form of the
