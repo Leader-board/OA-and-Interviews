@@ -168,9 +168,10 @@ After that, another man came and took me to the room where I would have my inter
 
 The interviewer introduced himself and told me that he was a software engineer at TPP. The interview started by asking basic details about myself and then asking what I was doing my masters project on and then told me to describe it! I told him that I did not yet start working on the project (I would normally start only after the Term 2 exams), to which he told me to describe a technical module/topic to a non-technical audience. I then described the background behind the Markowitz optimisation problem and he seemed OK with it.
 
-Then he asked me
+Then he asked me, including but not limited to,
 
 * what made me apply to this role at TPP
+* my hobbies
 * 3 factors on having a centralised system as opposed to decentralisation
 * to describe the role of a software developer in my own words (I told him that it depends on the company itself and that there is no "one-size-fits-all" answer to this one)
 
