@@ -42,6 +42,21 @@ The Checkout.com People Acquisition Team
 
 BTW: instead of giving rubbish about "careful comparison of the skills" and whatnot, why not just tell that I failed the entrance exam? How hard is that? And sending the exam marks of a candidate is really not that difficult either. 
 
+### The GDPR attempt
+
+I sent a GDPR request to the data protection officer, and the only useful piece of information I got in return was my entrance exam mark (23.3%; 42/180). They even hid the question titles, so I didn't know if I got any marks on the coding questions either! There was also a "CV score sheet" file, which had this in it which I couldn't understand:
+
+<blockquote>
+
+A: 3 <br>
+W: 2 <br>
+L: 1 <br>
+A/W/L Total: 6 <br>
+Decision: Yes <br>
+HR: 24
+
+</blockquote>
+
 ### Takeaway
 
 * Unfortunately, I didn't know much SQL trivia and neither did I practice/work SQL beyond the basics, and hence this is a rare case for me, where a poor coding entrance exam mark is the direct cause of a failure. If you can do LeetCode Mediums in SQL comfortably, you should be fine though. Also I don't think there is any real partial marking either - you need to get the format exactly right or you won't get anything (this is not likely in a normal coding problem where the output format is easy to follow). 

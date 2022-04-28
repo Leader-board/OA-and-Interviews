@@ -17,7 +17,12 @@ The exam contains 14 questions of a mainly probability nature (with a focus on e
 
 This was with a recruiter from HR. Notice that while they are from HR, they usually have significantly better mathematical understanding that average (in fact, their application for a recruiter wants potential candidates to have done coursework in mathematics). 
 
-The interview was a split between stock (non-technical) and probability-based questions. I was served five probability questions (again focusing on expectations, through there was one on Bayes' theorem). While I did get them all, I had to request hints for a couple. Preparing from quant guides such as Heard on the Street or similar should help. 
+The interview was a split between stock (non-technical) and probability-based questions. I was served five probability questions (again focusing on expectations, through there was one on Bayes' theorem). While I did get them all, I had to request hints for a couple. Preparing from quant guides such as Heard on the Street or similar should help. To give more details on the questions themselves (helpful when reading in conjunction with the interview feedback - see the GDPR section):
+
+* The matching heads problem was given a set of three tosses with a certain probability and given a bet (say getting 3 pounds if two heads and a tail or 0 otherwise) and you pay some money to take the bet, whether this is a good bet or not. The solution would involve drawing up a table of probabilities for that scenario and computing expectations.
+* The "painting" question was given a scenario with a particular chance of the painting being real and that being fake, what is the expected value of the painting (again taking expectations); there was a harder variant which I didn't do as well (and hence got a 3)
+* I can't recall the box game as well (the question was to find the expected number of boxes to open if I'm right; can't recall the scenario)
+* The last question ("3 biased coins") was a standard Bayes' problem; was something like given a fair coin, a coin with only heads and coin with only tails (or something like that with different probabilities), if you pick a random coin and it's head, what is the probability it was from coin 2?
 
 The non-technical portion was generally standard with some tricky questions. While the classic ones (why SIG, why quant) were asked, tricky ones included:
 * how I did "so well" in my undergraduate - while I had a first, it was a very low first and that isn't a case of "done so well" given that getting a first isn't impressive _at all_.
@@ -91,7 +96,7 @@ Now, for the attachments.
 
 ![img.png](../../../media/sig1.png)
 
-The first attachment was my entrance test _in full_ (notice that I only requested the scores I got).
+The first attachment was my entrance test _in full_ (notice that I only requested the scores I got on the test, but they provided the questions as well).
 
 > Repository policies preclude sharing the questions themselves - they are most likely recycled after all.
 

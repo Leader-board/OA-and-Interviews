@@ -3,7 +3,7 @@
 ![Graphical user interface, text, application Description automatically
 generated](./media/image1.png)
 
-Figure 1 An example of an OA question - this used to be asked by Capital One from at least the 2018-2019 season up until the 2021-22 season, when they switched to the CodeSignal GCA (covered later on here)
+**Figure 1**: An example of an OA question - this used to be asked by Capital One from at least the 2018-2019 season up until the 2021-22 season, when they switched to the CodeSignal GCA (covered later on here)
 
 This is generally done at the very first stage, before an interview, and
 is often automated (so your resume may have not even been read yet!).
@@ -15,7 +15,7 @@ interview as a result (Databricks and JP Morgan being examples).
 
 ![Text Description automatically generated](./media/image2.png)
 
-Figure 2 Constraints provided for a HackerRank problem. You’re going to
+**Figure 2**: Constraints provided for a HackerRank problem. You’re going to
 see this in nearly every OA question and is a <b>huge</b> clue for you.
 
 Use the information in a question to your advantage! It will often
@@ -177,7 +177,7 @@ score ranges are more common:
 
 ![Text Description automatically generated](./media/image3.png)
 
-Figure 3
+**Figure 3**: 
 <https://support.codesignal.com/hc/en-us/articles/360039879414-What-s-a-Coding-Score-and-how-do-I-interpret-my-GCA-Coding-Score->
 
 A score of at least 835 is good, with 760s being a “C” grade (though
@@ -189,7 +189,7 @@ hence the “damage” is limited to the one company whose score you sent). <br>
 ![Graphical user interface, Teams Description automatically
 generated](./media/image4.png)
 
-Figure 4 A CodeSignal test report (which is similar to what companies will
+**Figure 4**: A CodeSignal test report (which is similar to what companies will
 see)
 
 You will also get a “score” out of 1200, 300 for each question.
@@ -263,19 +263,25 @@ Even though the syllabus may seem easy, it’s curved well in practice.
 This means that you will see questions that span a wide range of
 difficulty levels, and some of them will be tricky. It is not required
 to get a perfect mark on the mathematical section to proceed, though aim
-to get as much as you can.
+to get as much as you can, as you need at least 85% to pass the test itself.
+
+![img.png](media/image6.png)
+
+**Figure 5**: a Goldman Sachs score report. This is not provided by default; you'll need to request one through GDPR (if you're eligible). 
+
+Note that the questions are not weighed equally, and there is no obvious way to find out how many points each question is worth. However, what _usually_ happens is that the hardest question (of which there will be one, and the last question in the test) is only worth one point (out of 213 in the above example), and hence getting that wrong isn't as detrimental as missing the other maths or the coding questions. 
 
 ### Correlation One (C1)-based tests
 
 These are tests you may be asked to take for some data science and
 quantitative roles (examples include DRW and GSA Capital) and is
-somewhat difficult to do well. Knowledge of some machine learning (the
-Intro to ML course should be enough) is expected, plus very good
+somewhat difficult to do well. Knowledge of some machine learning (an introductory ML course should be enough) is expected, plus very good
 probability, statistics, and linear algebra (generally to the level of
 a university-level module in each of them). It’s usually 30 minutes/8 questions or 60
 minutes/15 questions, the questions are time-consuming, and it’s easy
 to run out of time, so good time management is very important. As with
 some others, you are not given a score upon completion.
+
 
 ### Situational Judgement Tests (SJT)
 
@@ -287,7 +293,7 @@ assessment:
 ![Graphical user interface, text, application Description automatically
 generated](./media/image5.png)
 
-Figure 5 An example of a SJT test as part of a larger immersive
+**Figure 6**: An example of a SJT test as part of a larger immersive
 assessment.
 
 See
