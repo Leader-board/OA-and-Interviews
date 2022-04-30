@@ -6,6 +6,7 @@
 * Round 1 interview: March 29, 2022
 * Round 2 Part 1 interview: April 12, 2022
 * Notification of failure: April 13, 2022
+* Feedback call: April 28, 2022
 * Location: London, United Kingdom
 
 ### Prelude
@@ -126,26 +127,47 @@ Was via Zoom. Annoyingly, the first two times no one showed up and I was simply 
 
 _First phone round_
 
-Subway transit time. Good communication, motivation etc. For technical part, could do well with almost no help. Could answer questions about time and space complexity with no issues. Discussed follow-up properly, provided verbal solution and the engineer thought that was no need to code it up. No issues overall. 
+Subway transit time. Good communication, motivation etc. For technical part, could do well with almost no help. Could answer questions about time and space complexity with no issues. Discussed follow-up properly, provided verbal solution and the engineer thought that was no need to code it up. Good answers to stock questions such as "Why Bloomberg" (mentioned combining tech and finance). No issues overall. 
 
 _Second technical round_
 
-asked Airport routes. Solved both quickly, code could be a bit cleaner. Weak communication skills. Less introduction in CV round. Reasonable technical skills/communication, could not take hint on feedback (tried to give feedback to answers/hints, felt like I was trying to lead my own way and was unable to take the feedback from the interviewers). Communication was the weak part (which eventually caused my failure).
+asked Airport routes. Solved both quickly, code could be a bit cleaner. Weak communication skills. Less introduction (i.e, weak performance) in CV round. Reasonable technical skills/communication, could not take hint on feedback (tried to give feedback to answers/hints, felt like I was trying to lead my own way and was unable to take the feedback from the interviewers). Communication was the weak part (which eventually caused my failure).
 
-Did not seem to be as interested on why Bloomberg - the interviewer thought that more research was indeed. Engineers thought the interview did not go as well as the phone interview, could not gain as much information from the candidate. Recommended more practice.
+Did not seem to be as interested on why Bloomberg - the interviewer thought that more research was needed. Engineers thought the interview did not go as well as the phone interview, could not gain as much information from the candidate. Recommended more practice.
 </blockquote>
 
 This is interesting. Notice that I referenced above that I made an error in my time complexity; this was not referenced in the feedback (which said that my technical skills were reasonable). The issues pointed out were
 
 * at my communication skills - unfortunately, mirrors my [Facebook failure](../Facebook/Software%20Engineer,%20University%20Grad.md). 
-* at my weak answers to questions such as "Why Bloomberg". This was a bit more surprising, and I should note in particular the rather bipolar feedback on this in the phone and technical interview. The interviewer suggested that it may have been because the questions were repetitive, but noted that they are still important.
+* at my weak answers to questions such as "Why Bloomberg". This was a bit more surprising, and I should note in particular the rather bipolar feedback on this in the phone and technical interview. The recruiter suggested that it may have been because the questions were repetitive, but noted that they are still important.
 
 A TLDR; of this would be to note that despite the interview being technical, they care about the non-technical aspects, and from the feedback that I got, was what let me down at that interview, and that I somehow did OK in that in the phone interview. 
 
-P.S: I was told at the call that the cool-down period is 6 months (not a year as some other companies do).
+P.S: I was told at the call that the cool-down period is 6 months (not a year as some other companies do). I was also sent a follow-up email, which included the below links:
+
+<blockquote>
+
+As mentioned, please also find some useful resources below. This should help with tips on how to prepare for an interview with us in the future.
+
+[How to Write a Technical Resume](https://youtu.be/KhbaY2UUtWU) <br>
+[How to Prepare for a Technical Interview](https://youtu.be/x7BtTnZwkgE) <br>
+[Mock Technical Interview Workshop](https://www.youtube.com/watch?v=lhKwiMnkFNI)
+
+Tell me more about Bloomberg...
+
+* [We are Bloomberg](https://www.bloomberg.com/company/we-are-bloomberg/)
+* [Engineering at Bloomberg](https://www.bloomberg.com/careers/technology/engineering/)
+* [Tips for a successful interview with us](https://www.bloomberg.com/careers/technology/engineering/software-engineering-student-recent-graduate/)
+* [What we do for the world around us](https://www.youtube.com/watch?v=bVcdS808p80)
+* [See what our Engineering teams are up to](https://github.com/bloomberg)
+
+
+</blockquote>
 
 Overall: despite the annoyance of having to get this via a phone call (and having to reschedule the call twice due to no one showing up the first two times), the feedback was very useful and I do appreciate Bloomberg for providing them (without having to take the GDPR route as with some other companies).
 
 ### Takeaway
 
-Even though my failure ultimately was not related to raw technical skills, I am still embarrassed over messing up the time complexity. Wonder whether that played a part? Also: they care about the stock questions, and somehow I managed to perform quite differently to the same question in the two rounds. 
+* Even though my failure ultimately was not related to raw technical skills, I am still embarrassed over messing up the time complexity. Wonder whether that played a part? 
+* Also: they care about the stock questions, and somehow I managed to perform quite differently to the same question in the two rounds.
+* I also wonder whether this could be a case of "the nerves getting the better of me", given that it was my first time at an on-site at Bloomberg.

@@ -7,7 +7,7 @@ This repository consists of two sections:
   <img src="media/readme2.png">
 </p>
 
-* A guide into online assessments. I would also like to see guides for other sections such as interviews, but do not have sufficient experience to write one myself. Contribution from others would be greatly appreciated. 
+* A guide into online assessments (and getting feedback using the GDPR). I would also like to see guides for other sections such as interviews, but do not have sufficient experience to write one myself. Contribution from others would be greatly appreciated. 
 
 > The above image actually has a takeaway: there is no need to feel grumpy over a "long" or "ugly" solution! Online assessments don't care about any of that - only whether your solution is correct (and efficient). 
 

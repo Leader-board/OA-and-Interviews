@@ -213,7 +213,11 @@ questions are written by the company, much like HackerRank, and there is
 no scaled score), in which case most of what was written for the HackerRank section would
 apply here.
 
-### Hirevue
+### HireVue
+
+![img.png](media/image7.png)
+
+**Figure 5:** A Hirevue score report, which is not provided to candidates (unless you request it through GDPR or similar). Notice in particular that the rating of 3 was given to the one-way video portion, and that it appears to have been reviewed by a human. Oddly though, despite getting a "yes" recommendation, this application was kicked out after the Hirevue stage.
 
 While relatively less common as a coding assessment platform, companies
 like BlackRock and JP Morgan use them, so it’s still around. The main
@@ -267,7 +271,7 @@ to get as much as you can, as you need at least 85% to pass the test itself.
 
 ![img.png](media/image6.png)
 
-**Figure 5**: a Goldman Sachs score report. This is not provided by default; you'll need to request one through GDPR (if you're eligible). 
+**Figure 6**: a Goldman Sachs score report. This is not provided by default; you'll need to request one through GDPR (if you're eligible). 
 
 Note that the questions are not weighed equally, and there is no obvious way to find out how many points each question is worth. However, what _usually_ happens is that the hardest question (of which there will be one, and the last question in the test) is only worth one point (out of 213 in the above example), and hence getting that wrong isn't as detrimental as missing the other maths or the coding questions. 
 
@@ -293,7 +297,7 @@ assessment:
 ![Graphical user interface, text, application Description automatically
 generated](./media/image5.png)
 
-**Figure 6**: An example of a SJT test as part of a larger immersive
+**Figure 7**: An example of a SJT test as part of a larger immersive
 assessment.
 
 See
