@@ -217,7 +217,7 @@ apply here.
 
 ![img.png](media/image7.png)
 
-**Figure 5:** A Hirevue score report, which is not provided to candidates (unless you request it through GDPR or similar). Notice in particular that the rating of 3 was given to the one-way video portion, and that it appears to have been reviewed by a human. Oddly though, despite getting a "yes" recommendation, this application was kicked out after the Hirevue stage.
+**Figure 5:** A Hirevue score report from JP Morgan, which is not provided to candidates (unless you request it through GDPR or similar). Notice in particular that the rating of 3 was given to the one-way video portion, and that it appears to have been reviewed by a human. Oddly though, despite getting a "yes" recommendation, this application was kicked out after the Hirevue stage.
 
 While relatively less common as a coding assessment platform, companies
 like BlackRock and JP Morgan use them, so it’s still around. The main
