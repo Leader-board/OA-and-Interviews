@@ -1,7 +1,6 @@
 # Online Assessment/Coding Tests
 
-![Graphical user interface, text, application Description automatically
-generated](./media/image1.png)
+![An example of an OA question - this used to be asked by Capital One from at least the 2018-2019 season up until the 2021-22 season, when they switched to the CodeSignal GCA (covered later on here)](./media/image1.png)
 
 **Figure 1**: An example of an OA question - this used to be asked by Capital One from at least the 2018-2019 season up until the 2021-22 season, when they switched to the CodeSignal GCA (covered later on here)
 
@@ -13,7 +12,7 @@ entire test right, especially if the test is harder than usual. Note
 that doing well on the OA does not mean that you will progress to the
 interview as a result (Databricks and JP Morgan being examples).
 
-![Text Description automatically generated](./media/image2.png)
+![Constraints provided for a HackerRank problem. You’re going to see this in nearly every OA question and is a huge clue for you](./media/image2.png)
 
 **Figure 2**: Constraints provided for a HackerRank problem. You’re going to
 see this in nearly every OA question and is a <b>huge</b> clue for you.
@@ -175,7 +174,7 @@ Now what about scores? The scoring range is 300 to 850, but anyone
 making an attempt at any question will get at least 600. Hence, the below
 score ranges are more common:
 
-![Text Description automatically generated](./media/image3.png)
+![CodeSignal documentation giving context to different score ranges](./media/image3.png)
 
 **Figure 3**: 
 <https://support.codesignal.com/hc/en-us/articles/360039879414-What-s-a-Coding-Score-and-how-do-I-interpret-my-GCA-Coding-Score->
@@ -186,8 +185,8 @@ Regardless, if you do not do well, you can retake after 14 days (and
 hence the “damage” is limited to the one company whose score you sent). <br> It is worth noting that an exception to the 14-day cooldown period applies if you took an unproctored variant of the test first and then are asked to take a proctored form - in this case you are permitted to take the proctored version even without the 14-day cooldown applying. This is described at [this CodeSignal article](https://support.codesignal.com/hc/en-us/articles/4414136462103).
 
 **How long are my results valid for?** Your test results are technically valid without an expiration date. However, companies have the right to set a limit on how old a test result must be, as described at [here](https://support.codesignal.com/hc/en-us/articles/1500001964122--Setting-age-limits-for-certification-results). What this means is that if you have a company that wants, for instance, only results in the last 6 months, but your latest result was earlier than that, you will not have a choice but to retake the exam, and a similar issue can happen if you had an older result that was better than a "valid" test result. Of course, those results will still be valid for those companies that don't use this feature, and you retain the right to retake the test even if you do have a valid result that meets this age limit. 
-![Graphical user interface, Teams Description automatically
-generated](./media/image4.png)
+![A CodeSignal test report (which is similar to what companies will
+see)](./media/image4.png)
 
 **Figure 4**: A CodeSignal test report (which is similar to what companies will
 see)
@@ -208,14 +207,15 @@ take every day or so). The scoring algorithm is the same, and the
 questions give a good approximation on what you would get on the actual
 test.
 
-In rare cases, you may be given a non-GCA examination (wherein the
+In rare cases (such as SIG), you may be given a non-GCA examination (wherein the
 questions are written by the company, much like HackerRank, and there is
 no scaled score), in which case most of what was written for the HackerRank section would
 apply here.
 
 ### HireVue
 
-![img.png](media/image7.png)
+![A Hirevue score report from JP Morgan, which is not provided to candidates (unless you request it through GDPR or similar). Notice in particular that the rating of 3 was given to the one-way video portion, and that it appears to have been reviewed by a human. Oddly though, despite getting a "yes" recommendation, this application was kicked out after the Hirevue stage.
+](media/image7.png)
 
 **Figure 5:** A Hirevue score report from JP Morgan, which is not provided to candidates (unless you request it through GDPR or similar). Notice in particular that the rating of 3 was given to the one-way video portion, and that it appears to have been reviewed by a human. Oddly though, despite getting a "yes" recommendation, this application was kicked out after the Hirevue stage.
 
@@ -239,7 +239,30 @@ scope for this guide.
 This section covers some common non-coding tests that you may be asked
 to take.
 
+### SHL G+ (General Ability Test)
+
+This is an IQ-based exam comprising logical, deduction and mathematical questions, asked for by companies such as Optiver, Barclays and Experian. There are two variants of this test, denoted as Variant 1 and 2 respectively.
+
+* Variant 1 comprises 30 questions to be completed in 36 minutes, and every question is MCQ. Techniques that apply to any MCQ exam also apply here, such as elimination. 
+* Variant 2 comprises 24 questions to be completed in 36 minutes, and each question is interactive. This is the test you're more likely to get now. 
+
+Now, about Variant 2. There are many types of questions you can be asked - see [this page](https://www.lancaster.ac.uk/health-and-medicine/dhr/dclinpsy/applicants/shortlisting/) for some examples. In particular, make sure you do the practice questions - they have a rather annoying way of asking the question and can be confusing at times. In particular, the "drag the line" question needs prior practice, as the interface doesn't work the way you may expect it to (and can catch you off guard if you are given such a question in the actual test). 
+
+![A SHL G+ "dragging the line" question](media/image8.png) 
+
+**Figure 6**: A SHL G+ "dragging the line" question. 
+
+Other relevant information:
+
+* For Variant 2, the only mathematics questions in the test are data inference problems - where you'll have to interpret data to solve a problem (for example, find the profit of four industries and arrange in a pie chart). The questions are usually no harder than GCSE/grade 10-level in terms of the concepts required, but you do have to be quick given the time limit. For Variant 1, on top of Variant 2-style problems, you may be asked things such as work-rate problems.
+* For the calendar problems (Variant 2 only), a useful tip is to take a picture of a calendar on the screen and quickly work through the cases using a tablet pen. This can help in whittling down the dates that definitely _cannot_ work so that you have less to consider in the end. This is most useful if you have a convertible (such as Surface) connected to another screen.
+* Pacing the time is important - it's easy to spend too long on a problem and struggle to complete the test as a result. 
+* In most cases, you won't get an indication of your performance in the test. However, what companies do have is your percentile in the deductive, logical and mathematics subsection of the test. A sample is shown below: ![A SHL G+ Variant 2 test report](media/image9.png) <br> **Figure 7**: A SHL G+ Variant 2 test report.
+* The percentile required to pass varies by company - apparently Optiver requires ridiculously high percentiles (in the mid 90s at least).
+
 ### Mathematics (Goldman Sachs only)
+
+*Note: this does not apply for India, where a significantly different [aptitude test](https://www.geeksforgeeks.org/goldman-sachs-engineering-campus-hiring-program-aptitude-test/) is used instead.*
 
 Goldman Sachs is unique in that during the application process (for
 Engineering), you are given a choice on whether to take the purely
@@ -269,9 +292,9 @@ difficulty levels, and some of them will be tricky. It is not required
 to get a perfect mark on the mathematical section to proceed, though aim
 to get as much as you can, as you need at least 85% to pass the test itself.
 
-![img.png](media/image6.png)
+![a Goldman Sachs score report. This is not provided by default; you'll need to request one through GDPR (if you're eligible)](media/image6.png)
 
-**Figure 6**: a Goldman Sachs score report. This is not provided by default; you'll need to request one through GDPR (if you're eligible). 
+**Figure 8**: a Goldman Sachs score report. This is not provided by default; you'll need to request one through GDPR (if you're eligible). 
 
 Note that the questions are not weighed equally, and there is no obvious way to find out how many points each question is worth. However, what _usually_ happens is that the hardest question (of which there will be one, and the last question in the test) is only worth one point (out of 213 in the above example), and hence getting that wrong isn't as detrimental as missing the other maths or the coding questions. 
 
@@ -286,7 +309,6 @@ minutes/15 questions, the questions are time-consuming, and it’s easy
 to run out of time, so good time management is very important. As with
 some others, you are not given a score upon completion.
 
-
 ### Situational Judgement Tests (SJT)
 
 These are non-technical tests where you’re given a hypothetical
@@ -294,10 +316,10 @@ situation and are asked what you would do in that case. They can come
 either as a standalone test or as part of a larger “immersive”
 assessment:
 
-![Graphical user interface, text, application Description automatically
-generated](./media/image5.png)
+![An example of a SJT test as part of a larger immersive
+assessment](./media/image5.png)
 
-**Figure 7**: An example of a SJT test as part of a larger immersive
+**Figure 9**: An example of a SJT test as part of a larger immersive
 assessment.
 
 See
