@@ -11,7 +11,7 @@
 
 ### Coderbyte entrance exam
 
-After submitting the application, I was asked to take a Coderbyte entrance exam in C. It was a LeetCode easy and LeetCode medium, rather similar in scope (strings and working with binary). The test was untimed, making the process less stressful, but had to be completed in one sitting The main challenge I had was translating what I'd normally do in Java into C, given that C has very few library functions. Note that Coderbyte will run a few sample test cases, but once submitted, will run some hidden test cases but won't tell your score (so testing with custom test cases is important, like Codility). 
+After submitting the application, I was asked to take a Coderbyte entrance exam in C. It was a LeetCode easy and LeetCode medium, rather similar in scope (strings and working with binary). The test was untimed, making the process less stressful, but had to be completed in one sitting. The main challenge I had was translating what I'd normally do in Java into C, given that C has very few library functions. Note that Coderbyte will run a few sample test cases, but once submitted, will run some hidden test cases but won't tell your score (so testing with custom test cases is important, like Codility). 
 
 ### Phone interview
 

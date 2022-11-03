@@ -169,7 +169,9 @@ in the questions you’ll get compared to the other test types. For the
   
     Aim to get them in 20-30 minutes or so.
     </details>
-    
+
+It is a very good idea to read CodeSignal's [coding assessment framework](./media/general-coding-assessment-framework.pdf). That document tells what would (and not) be tested on the GCA, and clearly tells that DP isn't on the test for instance. 
+
 Now what about scores? The scoring range is 300 to 850, but anyone
 making an attempt at any question will get at least 600. Hence, the below
 score ranges are more common:
