@@ -1,5 +1,10 @@
 # Sophomore Software Engineering Internship with Oracle
+[Ben Zhao(Author) Github Profile](https://github.com/bzhao-1)
+
 # Parameters
+
+Location: Austin, TX
+
 Start Date: June 20th 2023
 
 End Date: Sep 8th 2023 
