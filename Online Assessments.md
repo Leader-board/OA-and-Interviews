@@ -26,12 +26,12 @@ up with a solution better than O(_n_) in this case (even if one
 exists); the reason is that it takes linear time to input the test array
 itself! With that in mind,
 
-  - If \(_n_ > 10<sup>4</sup>\), aim for a O(_n_) or a
+  - If \(_n_ < 10<sup>4</sup>\), aim for a O(_n_) or a
     O(_n_ log _n_) solution.
 
-  - If \(_n_ > 10<sup>3</sup>\), aim for a O(_n_<sup>2</sup>) solution
+  - If \(_n_ < 10<sup>3</sup>\), aim for a O(_n_<sup>2</sup>) solution
 
-  - If \(_n_ > 10<sup>2</sup>\), aim for a O(_n_<sup>3</sup>) solution
+  - If \(_n_ < 10<sup>2</sup>\), aim for a O(_n_<sup>3</sup>) solution
 
   - If \(_n_ < 20\), a O(2<sup>_n_</sup>) solution should be fine.
 
