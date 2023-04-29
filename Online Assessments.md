@@ -15,7 +15,7 @@ interview as a result (Databricks and JP Morgan being examples).
 ![Constraints provided for a HackerRank problem. You’re going to see this in nearly every OA question and is a huge clue for you](./media/image2.png)
 
 **Figure 2**: Constraints provided for a HackerRank problem. You’re going to
-see this in nearly every OA question and is a <b>huge</b> clue for you.
+see this in nearly every OA question and is a <b>huge</b> clue for you. For example, for the above constraints, O(_n_<sup>2</sup>) would be ~10<sup>4</sup>, which looks like a good choice for this question (and indeed it was, being a 2D DP problem). An O(_n_<sup>3</sup>) algorithm would be a stretch (but could pass, and is better than nothing!) and O(2<sup>_n_</sup>) will result in a TLE (time limit exceeded). This doesn't look like a question that requires O(_n_ log _n_) or O(_n_) though.  
 
 Use the information in a question to your advantage! It will often
 implicitly tell you how efficient your algorithm should be to get full
@@ -101,9 +101,27 @@ It is hence important to validate correctness of a solution by running it with c
 
 ### CodeSignal
 
+<blockquote>
+<b>Changes for spring 2023</b>
+
+The CodeSignal score range will change in spring 2023. The main difference is that the scores will change from 300-850 to 200-600; this is done so that scores from different tests (such as the GCA, the Data Science assessment, and more) can be compared in the same scale.
+
+There is nothing candidates need to do; the GCA test content will remain the same and can be prepared in exactly the same way as described below. Scores in the 300-850 range will be mapped to the 200-600 table. Other changes include in how results are presented; just like the code skills triangle you see now, they are useless and can be safely ignored. The importance of the scaled score has not changed. 
+
+There are other changes such as in terms of retakes which have already taken effect. 
+
+Relevant CodeSignal articles:
+
+* [Understanding Coding Score 2023](https://support.codesignal.com/hc/en-us/articles/13261190299287-Understanding-Coding-Score-2023) - provides a high-level overview of the changes
+* [Converting Historical Coding Score Thresholds to Coding Score 2023
+  ](https://support.codesignal.com/hc/en-us/articles/13260678794775) - provides conversion tables from current scoring scales from all of CodeSignal's tests to the new 200-600 system.
+
+</blockquote>
+
+
 Normally used by companies for their GCA (General Coding Assessment)
 test, which is a standardised coding examination (think of it as the
-SAT/ACT of coding). As a result,
+SAT/ACT of coding for those in the US). As a result,
 
   - It is possible to submit a test result to multiple companies. This
     goes both ways – if you do well once, you won’t have to retake the
@@ -183,10 +201,19 @@ score ranges are more common:
 
 A score of at least 835 is good, with 760s being a “C” grade (though
 companies like Capital One seem to be OK with scores in the 710 range).
-Regardless, if you do not do well, you can retake after 14 days (and
-hence the “damage” is limited to the one company whose score you sent). <br> It is worth noting that an exception to the 14-day cooldown period applies if you took an unproctored variant of the test first and then are asked to take a proctored form - in this case you are permitted to take the proctored version even without the 14-day cooldown applying. This is described at [this CodeSignal article](https://support.codesignal.com/hc/en-us/articles/4414136462103).
 
-**How long are my results valid for?** Your test results are technically valid without an expiration date. However, companies have the right to set a limit on how old a test result must be, as described at [here](https://support.codesignal.com/hc/en-us/articles/1500001964122--Setting-age-limits-for-certification-results). What this means is that if you have a company that wants, for instance, only results in the last 6 months, but your latest result was earlier than that, you will not have a choice but to retake the exam, and a similar issue can happen if you had an older result that was better than a "valid" test result. Of course, those results will still be valid for those companies that don't use this feature, and you retain the right to retake the test even if you do have a valid result that meets this age limit. 
+#### Retaking tests
+
+CodeSignal historically had a generous retaking policy - one could resit the exam every two weeks. This means that the "damage" in case of a bad score was considerably limited, as you could normally just resit. 
+
+This has changed since 2023: only two tests can be taken in a rolling 30-day period, and only three tests can be taken in a rolling 6-month period. This means that there is a much higher chance that you'll have no retakes, and means that you'll have to be more careful. See [this page](https://support.codesignal.com/hc/en-us/articles/11635510785047-What-is-a-cooldown-period-and-how-does-it-impact-my-ability-to-take-an-assessment-) for more information.
+
+The only exception to this rule are cases where you won't have a valid result, such as if a company asks for a test that has been taken in (say) the last two months and you don't have such a result. 
+
+#### How long are my results valid for?
+
+Your test results are technically valid without an expiration date. However, companies have the right to set a limit on how old a test result must be, as described at [here](https://support.codesignal.com/hc/en-us/articles/1500001964122--Setting-age-limits-for-certification-results). What this means is that if you have a company that wants, for instance, only results in the last 6 months, but your latest result was earlier than that, you will not have a choice but to retake the exam, and a similar issue can happen if you had an older result that was better than a "valid" test result. Of course, those results will still be valid for those companies that don't use this feature, and you retain the right to retake the test even if you do have a valid result that meets this age limit. 
+
 ![A CodeSignal test report (which is similar to what companies will
 see)](./media/image4.png)
 
@@ -212,7 +239,7 @@ test.
 In rare cases (such as SIG), you may be given a non-GCA examination (wherein the
 questions are written by the company, much like HackerRank, and there is
 no scaled score), in which case most of what was written for the HackerRank section would
-apply here. It's easy to find out if an exam is GCA - this will be clearly mentioned. 
+apply instead. It's easy to find out if an exam is GCA - this will be clearly mentioned. 
 
 ### HireVue
 
