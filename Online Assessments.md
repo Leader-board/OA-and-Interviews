@@ -289,6 +289,38 @@ Other relevant information:
 * In most cases, you won't get an indication of your performance in the test. However, what companies do have is your percentile in the deductive, logical and mathematics subsection of the test. A sample is shown below: ![A SHL G+ Variant 2 test report](media/image9.png) <br> **Figure 7**: A SHL G+ Variant 2 test report.
 * The percentile required to pass varies by company - apparently Optiver requires ridiculously high percentiles (in the mid 90s at least).
 
+### Mental maths tests
+
+These are tests various companies ask for (quant) trading roles, where you're asked to make a large number of rapid computations in a short period of time (such as 75 questions in 10 minutes). These tests can be difficult to do well for many people, and it is difficult to predict without doing some practice. The below advice is for Flow Traders' test, which asks you to solve 75 problems in 10 minutes' time.
+
+Now, Flow Traders has three components:
+
+* 30 relatively straightforward questions - this section is rather punishing though, with 1 point for a correct answer, -3 for an incorrect answer and -2 for no attempt
+* 30 relatively harder questions - with +2/-1/-1 for correct/incorrect/blank
+* 15 MCQ estimation questions - while the computation can be hard, many of the problems can be estimated or otherwise "short-cutted", saving you time. +2/-2/-1. 
+
+Note that
+
+* you **cannot** use a pen/paper or calculator - it must all be in your head! You'll be proctored by a recruiter online when you take the test. 
+* the marking scheme is rather punishing, especially if you do not attempt a question.
+* you need a raw score of 72/120 (60%) to pass.
+* it is very easy to make careless mistakes that can be punishing in your grade, especially in the first section - you should aim to keep at least 90 seconds to check your work.
+* a failure can be punishing (unless the recruiter specifically mentions that the test is a free-hit, which they may do if you're taking the test at an insight day) - you'll normally be banned for one year. Similarly, if you pass the test, it's also valid only for a year and you'll have to resit if you make an application after that. 
+
+How do you prepare for this test? Official past papers are rare and hard to find; a couple of resources are given below:
+
+* [Flow_Traders_Example_Math_Test_2020.pdf](media%2FFlow_Traders_Example_Math_Test_2020.pdf)
+* [flow_traders_pt1_excel.xlsx](media%2Fflow_traders_pt1_excel.xlsx) - this is the same as the above, but in an Excel format which has automatic scoring and marking built-in. You'll need to time the test yourself though. 
+
+Note that you might end up getting some questions in the practice test in the actual exam - this has been the case the two times I did the exam!
+
+What about third-party sites?
+
+* https://www.tradermath.org/ is in theory, a good site, with realistic questions for three major firms and automated scoring. That is, unless you're fine with having one set. The problem is that it's otherwise locked into a paywall, with the cost being $30 for two weeks, and $120 for six months. In my opinion, that's expensive for what it offers. 
+* https://arithmetic.zetamac.com/ is good for skill and foundation building (a score in the 50s should be enough to comfortably pass the Flow Traders test from experience) - however, the questions are not as realistic, and the format is generic (in particular, you only progress after inputting a correct answer)
+
+There are other similar sites that you can find with an internet search. Reddit is another helpful source for advice and tips. 
+
 ### Mathematics (Goldman Sachs only)
 
 *Note: this does not apply for India, where a significantly different [aptitude test](https://www.geeksforgeeks.org/goldman-sachs-engineering-campus-hiring-program-aptitude-test/) is used instead.*
