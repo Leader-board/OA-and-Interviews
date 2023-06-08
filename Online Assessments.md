@@ -104,7 +104,7 @@ It is hence important to validate correctness of a solution by running it with c
 <blockquote>
 <b>Changes for spring 2023</b>
 
-The CodeSignal score range has changed since spring 2023. The main reason we haven't updated the guide yet with the new scores is that there seems to be some sort of glitch right now - an old score of 843 is being mapped as a 600 - which is not in concordance with the documentation (see ![img.png](media/image10.png)) for an example. 
+The CodeSignal score range has changed since spring 2023. The main reason we haven't updated the guide yet with the new scores is that there seems to be some sort of glitch right now - an old score of 843 is being mapped as a 600 - which is not in concordance with the documentation (see [this image](media/image10.png) for an example). 
 
 The main difference is that the scores will change from 300-850 to 200-600; this is done so that scores from different tests (such as the GCA, the Data Science assessment, and more) can be compared in the same scale.
 
