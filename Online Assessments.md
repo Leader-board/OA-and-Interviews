@@ -104,7 +104,9 @@ It is hence important to validate correctness of a solution by running it with c
 <blockquote>
 <b>Changes for spring 2023</b>
 
-The CodeSignal score range will change in spring 2023. The main difference is that the scores will change from 300-850 to 200-600; this is done so that scores from different tests (such as the GCA, the Data Science assessment, and more) can be compared in the same scale.
+The CodeSignal score range has changed since spring 2023. The main reason we haven't updated the guide yet with the new scores is that there seems to be some sort of glitch right now - an old score of 843 is being mapped as a 600 - which is not in concordance with the documentation (see ![img.png](media/image10.png)) for an example. 
+
+The main difference is that the scores will change from 300-850 to 200-600; this is done so that scores from different tests (such as the GCA, the Data Science assessment, and more) can be compared in the same scale.
 
 There is nothing candidates need to do; the GCA test content will remain the same and can be prepared in exactly the same way as described below. Scores in the 300-850 range will be mapped to the 200-600 table. Other changes include in how results are presented; just like the code skills triangle you see now, they are useless and can be safely ignored. The importance of the scaled score has not changed. 
 
@@ -117,7 +119,6 @@ Relevant CodeSignal articles:
   ](https://support.codesignal.com/hc/en-us/articles/13260678794775) - provides conversion tables from current scoring scales from all of CodeSignal's tests to the new 200-600 system.
 
 </blockquote>
-
 
 Normally used by companies for their GCA (General Coding Assessment)
 test, which is a standardised coding examination (think of it as the
@@ -171,7 +172,7 @@ in the questions you’ll get compared to the other test types. For the
     experience Q4 normally involves a clever application of hashmaps and
     it is expected that you know how to work with it properly inside and out. While
     greedy problems are technically possible, DP (dynamic programming)
-    questions will *not* show up in Q4 (and this test in general).
+    questions will *not* show up in Q4 (and this test). 
 
     <details>
     <summary>LeetCode questions that approximate a CodeSignal Q4</summary>
@@ -188,7 +189,7 @@ in the questions you’ll get compared to the other test types. For the
     Aim to get them in 20-30 minutes or so.
     </details>
 
-It is a very good idea to read CodeSignal's [coding assessment framework](./media/general-coding-assessment-framework.pdf). That document tells what would (and not) be tested on the GCA, and clearly tells that DP isn't on the test for instance. 
+It is a very good idea to read CodeSignal's [coding assessment framework](./media/general-coding-assessment-framework.pdf). That document tells what would (and not) be tested on the GCA, and clearly tells that DP isn't on the test for instance. You can also get a couple of extra practice questions by going [here](../media/General-Coding-Skills-Evaluation-Framework-CodeSignal-Skills-Evaluation-Lab-Short.pdf).
 
 Now what about scores? The scoring range is 300 to 850, but anyone
 making an attempt at any question will get at least 600. Hence, the below
@@ -256,7 +257,7 @@ isn’t the case for Hirevue. Plus you cannot even enter your own custom
 test cases, and there is little information on how they actually grade
 your solution.
 
-**Note for JP Morgan**: you'll be told that there would be some coding questions, some video and some "behavioural" questions. The "behavioural" ones are just survey-like questions and not something to be bothered with. Now, for the coding questions. You'll be given (usually) a LeetCode easy and a LeetCode Medium. Immediately after completing each question, you'll be asked to respond on video, how you solved the problem and what you'd do given more time (basically explaining your thought process). This is the "video" portion of the test - there aren't any "traditional" video questions to answer. 
+[//]: # (**Note for JP Morgan**: you'll be told that there would be some coding questions, some video and some "behavioural" questions. The "behavioural" ones are just survey-like questions and not something to be bothered with. Now, for the coding questions. You'll be given &#40;usually&#41; a LeetCode easy and a LeetCode Medium. Immediately after completing each question, you'll be asked to respond on video, how you solved the problem and what you'd do given more time &#40;basically explaining your thought process&#41;. This is the "video" portion of the test - there aren't any "traditional" video questions to answer. )
 
 It should be noted that the above covers only algorithmic-style
 questions; in rare cases you may be given a more specialised form of the
