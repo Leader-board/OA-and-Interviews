@@ -104,19 +104,17 @@ It is hence important to validate correctness of a solution by running it with c
 <blockquote>
 <b>Changes for spring 2023</b>
 
-The CodeSignal score range has changed since spring 2023. The main reason we haven't updated the guide yet with the new scores is that there seems to be some sort of glitch right now - an old score of 843 is being mapped as a 600 - which is not in concordance with the documentation (see [this image](media/image10.png) for an example). 
+Historically, the CodeSignal GCA worked on a 300-850 score scale. Since spring 2023, CodeSignal has transitioned into a newer 200-600 scale that is meant to allow for a common scale with CodeSignal's other tests. See [this](https://github.com/Leader-board/OA-and-Interviews/tree/ce5d21cc90a5c29db768197da8ee2513bbf6f580) if you're looking for the old scale details. Key notes:
 
-The main difference is that the scores will change from 300-850 to 200-600; this is done so that scores from different tests (such as the GCA, the Data Science assessment, and more) can be compared in the same scale.
-
-There is nothing candidates need to do; the GCA test content will remain the same and can be prepared in exactly the same way as described below. Scores in the 300-850 range will be mapped to the 200-600 table. Other changes include in how results are presented; just like the code skills triangle you see now, they are useless and can be safely ignored. The importance of the scaled score has not changed. 
-
-There are other changes such as in terms of retakes which have already taken effect. 
+* the test content has not changed at all. 
+* unlike before, partially correct questions (i.e, from a TLE in Q4 that's common with brute-force solutions) are marked with relative generosity. It used to be the case that you would get almost nothing from a question that you didn't answer perfectly; this is no longer the case. 
+* While CodeSignal provides a conversion table from the 300-850 scale to the 200-600 scale, our observation is that it's too simplified. In other words, you cannot use this as a like-for-like conversion between old and new scales, since the parameters used between the two scales have changed (in particular, due to the partial marking changes). See [this](https://www.reddit.com/r/csMajors/comments/1444fg3/codesignal_2023_scores_seems_to_be_glitched/) for more examples. The consequence of this is that a (say) 779 in the old scale could be a 550 or a 520 (and vice-versa), meaning that you'll have to check your new score to see if it's where you want it to be. 
 
 Relevant CodeSignal articles:
 
 * [Understanding Coding Score 2023](https://support.codesignal.com/hc/en-us/articles/13261190299287-Understanding-Coding-Score-2023) - provides a high-level overview of the changes
 * [Converting Historical Coding Score Thresholds to Coding Score 2023
-  ](https://support.codesignal.com/hc/en-us/articles/13260678794775) - provides conversion tables from current scoring scales from all of CodeSignal's tests to the new 200-600 system.
+  ](https://support.codesignal.com/hc/en-us/articles/13260678794775) - provides a crude conversion table for converting from current scoring scales from all of CodeSignal's tests to the new 200-600 system.
 
 </blockquote>
 
@@ -191,17 +189,7 @@ in the questions you’ll get compared to the other test types. For the
 
 It is a very good idea to read CodeSignal's [coding assessment framework](./media/general-coding-assessment-framework.pdf). That document tells what would (and not) be tested on the GCA, and clearly tells that DP isn't on the test for instance. You can also get a couple of extra practice questions by going [here](../media/General-Coding-Skills-Evaluation-Framework-CodeSignal-Skills-Evaluation-Lab-Short.pdf).
 
-Now what about scores? The scoring range is 300 to 850, but anyone
-making an attempt at any question will get at least 600. Hence, the below
-score ranges are more common:
-
-![CodeSignal documentation giving context to different score ranges](./media/image3.png)
-
-**Figure 3**: 
-<https://support.codesignal.com/hc/en-us/articles/360039879414-What-s-a-Coding-Score-and-how-do-I-interpret-my-GCA-Coding-Score->
-
-A score of at least 835 is good, with 760s being a “C” grade (though
-companies like Capital One seem to be OK with scores in the 710 range).
+Now what about scores? The scoring range is 200 to 600, and the more you get, the better. Completing all four questions of the test perfectly will get you a 600.
 
 #### Retaking tests
 
@@ -216,25 +204,17 @@ The only exception to this rule are cases where you won't have a valid result, s
 Your test results are technically valid without an expiration date. However, companies have the right to set a limit on how old a test result must be, as described at [here](https://support.codesignal.com/hc/en-us/articles/1500001964122--Setting-age-limits-for-certification-results). What this means is that if you have a company that wants, for instance, only results in the last 6 months, but your latest result was earlier than that, you will not have a choice but to retake the exam, and a similar issue can happen if you had an older result that was better than a "valid" test result. Of course, those results will still be valid for those companies that don't use this feature, and you retain the right to retake the test even if you do have a valid result that meets this age limit. 
 
 ![A CodeSignal test report (which is similar to what companies will
-see)](./media/image4.png)
+see)](./media/image10.png)
 
-**Figure 4**: A CodeSignal test report (which is similar to what companies will
+**Figure 3**: A CodeSignal test report (which is similar to what companies will
 see)
 
-You will also get a “score” out of 1200, 300 for each question.
-Disregard it. Also, unlike most other testing platforms, CodeSignal is
-*very* unforgiving with incomplete solutions (which are likely in Q4
-with suboptimal solutions) – it may seem like you got 70% of the test
-cases right (and get a score like 210/300) but get a scaled score that
-seemed like you got nothing. Partial marking is almost non-existent, and
-you need to get the entire question right to get points for it in
-practice. Also notice above that you’ll get a triangular graph that show
+Notice above that you’ll get a square graph that show
 your implementation, problem-solving and speed – do not worry about them
-too much. The scaled score out of 850 is the most important.
+too much. The scaled score out of 600 is the most important. Also, complete as much of the test as you can. It is better to write a brute-force solution for Q4 and get half points than to leave it blank - since spring 2023, CodeSignal has been more generous in marking partial solutions (they used to be very stingy with non-perfect solutions in the past).  
 
 It may help to try out some CodeSignal GCA practice tests (which you can
-take every day or so). The scoring algorithm is the same, and the
-questions give a good approximation on what you would get on the actual
+take every day or so). The questions give a good approximation on what you would get on the actual
 test.
 
 In rare cases (such as SIG), you may be given a non-GCA examination (wherein the
@@ -247,7 +227,7 @@ apply instead. It's easy to find out if an exam is GCA - this will be clearly me
 ![A Hirevue score report from JP Morgan, which is not provided to candidates (unless you request it through GDPR or similar). Notice in particular that the rating of 3 was given to the one-way video portion, and that it appears to have been reviewed by a human. Oddly though, despite getting a "yes" recommendation, this application was kicked out after the Hirevue stage.
 ](media/image7.png)
 
-**Figure 5:** A Hirevue score report from JP Morgan, which is not provided to candidates (unless you request it through GDPR or similar). Notice in particular that the rating of 3 was given to the one-way video portion, and that it appears to have been reviewed by a human. Oddly though, despite getting a "yes" recommendation, this application was kicked out after the Hirevue stage.
+**Figure 4:** A Hirevue score report from JP Morgan, which is not provided to candidates (unless you request it through GDPR or similar). Notice in particular that the rating of 3 was given to the one-way video portion, and that it appears to have been reviewed by a human. Oddly though, despite getting a "yes" recommendation, this application was kicked out after the Hirevue stage.
 
 While relatively less common as a coding assessment platform, companies
 like BlackRock and (in the past) JP Morgan use them, so it’s still around. The main
@@ -280,14 +260,14 @@ Now, about Variant 2. There are many types of questions you can be asked - see [
 
 ![A SHL G+ "dragging the line" question](media/image8.png) 
 
-**Figure 6**: A SHL G+ "dragging the line" question. 
+**Figure 5**: A SHL G+ "dragging the line" question. 
 
 Other relevant information:
 
 * For Variant 2, the only mathematics questions in the test are data inference problems - where you'll have to interpret data to solve a problem (for example, find the profit of four industries and arrange in a pie chart). The questions are usually no harder than GCSE/grade 10-level in terms of the concepts required, but you do have to be quick given the time limit. For Variant 1, on top of Variant 2-style problems, you may be asked things such as work-rate problems.
 * For the calendar problems (Variant 2 only), a useful tip is to take a picture of a calendar on the screen and quickly work through the cases using a tablet pen. This can help in whittling down the dates that definitely _cannot_ work so that you have less to consider in the end. This is most useful if you have a convertible (such as Surface) connected to another screen.
 * Pacing the time is important - it's easy to spend too long on a problem and struggle to complete the test as a result. 
-* In most cases, you won't get an indication of your performance in the test. However, what companies do have is your percentile in the deductive, logical and mathematics subsection of the test. A sample is shown below: ![A SHL G+ Variant 2 test report](media/image9.png) <br> **Figure 7**: A SHL G+ Variant 2 test report.
+* In most cases, you won't get an indication of your performance in the test. However, what companies do have is your percentile in the deductive, logical and mathematics subsection of the test. A sample is shown below: ![A SHL G+ Variant 2 test report](media/image9.png) <br> **Figure 6**: A SHL G+ Variant 2 test report.
 * The percentile required to pass varies by company - apparently Optiver requires ridiculously high percentiles (in the mid 90s at least).
 
 ### Mental maths tests
@@ -356,7 +336,7 @@ to get as much as you can, as you need at least 85% to pass the test itself.
 
 ![a Goldman Sachs score report. This is not provided by default; you'll need to request one through GDPR (if you're eligible)](media/image6.png)
 
-**Figure 8**: a Goldman Sachs score report. This is not provided by default; you'll need to request one through GDPR (if you're eligible). 
+**Figure 7**: a Goldman Sachs score report. This is not provided by default; you'll need to request one through GDPR (if you're eligible). 
 
 Note that the questions are not weighed equally, and there is no obvious way to find out how many points each question is worth. However, what _usually_ happens is that the hardest question (of which there will be one, and the last question in the test) is only worth one point (out of 213 in the above example), and hence getting that wrong isn't as detrimental as missing the other maths or the coding questions. 
 
@@ -381,7 +361,7 @@ assessment:
 ![An example of a SJT test as part of a larger immersive
 assessment](./media/image5.png)
 
-**Figure 9**: An example of a SJT test as part of a larger immersive
+**Figure 8**: An example of a SJT test as part of a larger immersive
 assessment.
 
 See

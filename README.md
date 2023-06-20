@@ -1,5 +1,5 @@
 # Online assessments and interviews
-The guide to online assessments and interviews. This is not a RTM release and is still well in the beta range. Feedback and contributions are welcome and appreciated. 
+The guide to online assessments and interviews. Feedback and contributions are welcome and appreciated. 
 
 This repository consists of two sections:
 
@@ -15,3 +15,7 @@ Please use GitHub issues to contribute to this repository, either by pull reques
 **This repository is _not_ designed to be forked.** Please do not fork this repository unless you intend to contribute; star or watch this repository instead. Reasoning for this is given below. 
 
 This repository is, in general, copyrighted (older versions were under a somewhat more permissive licence; see history for that). In particular, modifications of this repository may **not** be shared by default. This may sound restrictive, but the intention is to prevent the interviews portion (which are contributed by users, including myself) from being inappropriately modified, and to encourage contributing to a central repository instead of creating potentially disjoint forks. The exception is if you plan to contribute using GitHub issues; since GitHub can automatically create forks during the process, any (disjoint) forks as part of that would be fine. Please do let me know if exceptions are needed.
+
+### Need something more?
+
+I don't anticipate this to be common, but if you require something more (such as some sort of specialised or private help/chat), simply let me know via email (leader-board at outlook com).
