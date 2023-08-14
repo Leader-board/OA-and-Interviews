@@ -108,7 +108,7 @@ Historically, the CodeSignal GCA worked on a 300-850 score scale. Since spring 2
 
 * the test content has not changed at all. 
 * unlike before, partially correct questions (i.e, from a TLE in Q4 that's common with brute-force solutions) are marked with relative generosity. It used to be the case that you would get almost nothing from a question that you didn't answer perfectly; this is no longer the case. 
-* While CodeSignal provides a conversion table from the 300-850 scale to the 200-600 scale, our observation is that it's too simplified. In other words, you cannot use this as a like-for-like conversion between old and new scales, since the parameters used between the two scales have changed (in particular, due to the partial marking changes). See [this](https://www.reddit.com/r/csMajors/comments/1444fg3/codesignal_2023_scores_seems_to_be_glitched/) for more examples. The consequence of this is that a (say) 779 in the old scale could be a 550 or a 520 (and vice-versa), meaning that you'll have to check your new score to see if it's where you want it to be. 
+* while CodeSignal provides a conversion table from the 300-850 scale to the 200-600 scale, our observation is that it's too simplified. In other words, you cannot use this as a like-for-like conversion between old and new scales, since the parameters used between the two scales have changed (in particular, due to the partial marking changes). See [this](https://www.reddit.com/r/csMajors/comments/1444fg3/codesignal_2023_scores_seems_to_be_glitched/) for more examples. The consequence of this is that a (say) 779 in the old scale could be a 550 or a 520 (and vice-versa), meaning that you'll have to check your new score to see if it's where you want it to be. 
 
 Relevant CodeSignal articles:
 
@@ -187,7 +187,7 @@ in the questions you’ll get compared to the other test types. For the
     Aim to get them in 20-30 minutes or so.
     </details>
 
-It is a very good idea to read CodeSignal's [coding assessment framework](./media/general-coding-assessment-framework.pdf). That document tells what would (and not) be tested on the GCA, and clearly tells that DP isn't on the test for instance. You can also get a couple of extra practice questions by going [here](../media/General-Coding-Skills-Evaluation-Framework-CodeSignal-Skills-Evaluation-Lab-Short.pdf).
+It is a very good idea to read CodeSignal's [coding assessment framework](./media/general-coding-assessment-framework.pdf). That document tells what would (and not) be tested on the GCA, and clearly tells that DP isn't on the test for instance. You can also get a couple of extra practice questions by going [here](./media/General-Coding-Skills-Evaluation-Framework-CodeSignal-Skills-Evaluation-Lab-Short.pdf).
 
 Now what about scores? The scoring range is 200 to 600, and the more you get, the better. Completing all four questions of the test perfectly will get you a 600.
 

@@ -185,7 +185,7 @@ There was
 * a Word file detailing the take-home exam specification
 * a CSV file containing the dataset
 
-The take-home exam ("Table of Bets") gave a dataset of fictional (but realistic according to them) horse bets and asked me to summarise the data, find out subsets of the dataset where it would be a good idea to bet (providing relevant statistical parameters such as confidence intervals), and determining whether a new bet should be staked. Knowledge of statistics and probability (to an indroductory level) is expected. I did the exam over the weekend and submitted it back to them.
+The take-home exam ("Table of Bets") gave a dataset of fictional (but realistic according to them) horse bets and asked me to summarise the data, find out subsets of the dataset where it would be a good idea to bet (providing relevant statistical parameters such as confidence intervals), and determining whether a new bet should be staked. Knowledge of statistics and probability (to an introductory level) is expected. I did the exam over the weekend and submitted it back to them.
 
 They also mentioned that the salary range is £40000-45000 upon my asking (which easily met my standard; I am not particularly motivated by salary). They also clarified that the role change was only in name and that the duties would remain the same - and indeed the job description was otherwise identical.
 
