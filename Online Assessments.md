@@ -161,6 +161,7 @@ in the questions you’ll get compared to the other test types. For the
     * https://leetcode.com/problems/toeplitz-matrix/
     * https://leetcode.com/problems/image-overlap/
     * https://leetcode.com/problems/transpose-matrix/
+    * https://leetcode.com/problems/text-justification - this is on the harder side but is a good example of a string-based implementation problem for Q3
     
     Aim to get them in 15-20 minutes or so. 
     </details>
@@ -267,6 +268,7 @@ Other relevant information:
 * For Variant 2, the only mathematics questions in the test are data inference problems - where you'll have to interpret data to solve a problem (for example, find the profit of four industries and arrange in a pie chart). The questions are usually no harder than GCSE/grade 10-level in terms of the concepts required, but you do have to be quick given the time limit. For Variant 1, on top of Variant 2-style problems, you may be asked things such as work-rate problems.
 * For the calendar problems (Variant 2 only), a useful tip is to take a picture of a calendar on the screen and quickly work through the cases using a tablet pen. This can help in whittling down the dates that definitely _cannot_ work so that you have less to consider in the end. This is most useful if you have a convertible (such as Surface) connected to another screen.
 * Pacing the time is important - it's easy to spend too long on a problem and struggle to complete the test as a result. 
+* If you have a disability making you eligible for extra time, tell the company. If you already get extra time at university, for example, you should be able to get extra time in this test as well. 
 * In most cases, you won't get an indication of your performance in the test. However, what companies do have is your percentile in the deductive, logical and mathematics subsection of the test. A sample is shown below: ![A SHL G+ Variant 2 test report](media/image9.png) <br> **Figure 6**: A SHL G+ Variant 2 test report.
 * The percentile required to pass varies by company - apparently Optiver requires ridiculously high percentiles (in the mid 90s at least).
 
@@ -291,7 +293,8 @@ Note that
 How do you prepare for this test? Official past papers are rare and hard to find; a couple of resources are given below:
 
 * [Flow_Traders_Example_Math_Test_2020.pdf](media%2FFlow_Traders_Example_Math_Test_2020.pdf)
-* [flow_traders_pt1_excel.xlsx](media%2Fflow_traders_pt1_excel.xlsx) - this is the same as the above, but in an Excel format which has automatic scoring and marking built-in. You'll need to time the test yourself though. 
+* [flow_traders_pt1_excel.xlsx](media%2Fflow_traders_pt1_excel.xlsx) - this is the same as the above, but in an Excel format which has automatic scoring and marking built-in. You'll need to time the test yourself though.
+* [Practice-Math-Test_4.pdf](media%2FPractice-Math-Test_4.pdf) - this is more of a "half test" as it includes only a bit more than half the questions in the actual test
 
 Note that you might end up getting some questions in the practice test in the actual exam - this has been the case the two times I did the exam!
 
@@ -366,7 +369,13 @@ assessment.
 
 See
 <https://www.imperial.ac.uk/careers/applications-and-interviews/psychometric-tests/>
-for more information.
+for more information. 
+
+It is important to realise that they **do** have a correct and incorrect answer, despite the companies telling otherwise. For most people this would be natural, but if you're not, you're likely to face a lot of trouble and get kicked out quickly. In many cases, the group of people that struggle to do well on SJTs have a disability - so if you suspect that you could be in that group, you need to get help, quickly. Remember that many of the organisations that administer SJTs have a "only one role per year" policy for internship/graduate roles, so if you fail the test, you are effectively banned for the rest of that recruiting year. 
+
+![An example of a rejected application due to a poor SJT score](media/image11.png)
+
+**Figure 9**: An example of a rejected application for NatWest due to a poor SJT score - notice that I got about 63% of the points, while I had to get at least 76.3% to progress to the SHL entrance exam (not the Video Assessment). NatWest follows the "only one application per year" policy, so I was effectively given a one-year ban.
 
 ### Game-based assessments
 

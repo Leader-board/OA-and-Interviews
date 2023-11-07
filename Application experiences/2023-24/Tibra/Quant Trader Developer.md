@@ -22,7 +22,7 @@ Hi Leader,
 Congratulations! We're pleased to advise that after reviewing your online testing results, you are progressing to the next stage of our assessment process. This stage is a 30-minute phone interview, for us to get a better understanding of your suitability for the role.
 To schedule the interview, please click on the link below and select a suitable time to speak with one of our Talent team members:
 
-Schedule an interview
+[Schedule an interview]
 
 Please have a pen and paper handy during the interview, and ensure that your computer can run Microsoft Teams to connect to the meeting.
 
@@ -75,7 +75,7 @@ OK, this is interesting in many ways. What's in this stage?
 
 <blockquote>
 
-You will be sent the data set at 3:00pm AEST. The goal of your research over the 2 hours from 3:00pm AEST, is to explore the data and discover any relationships from the signals to the asset with the intention of trading the asset. Be prepared to present the outcomes of your investigation to Romen and your partner. The exercise that you will do afterwards will be a group exercise, where you will join this meeting at 5:00pm AEST, and Romen will give you the details after the presentation.
+You will be sent the data set at 3:00pm AEST. The goal of your research over the 2 hours from 3:00pm AEST, is to explore the data and discover any relationships from the signals to the asset with the intention of trading the asset. Be prepared to present the outcomes of your investigation to [interviewer] and your partner. The exercise that you will do afterwards will be a group exercise, where you will join this meeting at 5:00pm AEST, and [interviewer] will give you the details after the presentation.
 
 Please ensure you have a jupyter notebook environment with a Python 3 kernel and Teams installed on your device to share your screen. Please ensure that your device is able to share the screen, as on some PCs / Macs this functionality can be temperamental.
 </blockquote>
@@ -84,6 +84,7 @@ and
 
 <blockquote>
 Below is some further information in regard to the group task.
+
 * The goal of the 2 hours is for you to work individually to understand, explore the data and its relationships to discover any relationships from the signals to the asset with the intention of trading the asset.
 * One clue that I can give here is that the goal of financial analysis in trading is almost always to gain useful insights about an asset and to predict its behaviour.
 * If you have experience with pandas/python analysis this is preferable but not a requirement.
@@ -98,7 +99,7 @@ So, to summarise, we have
 
 ### The third stage
 
-This was via Teams. At first I struggled to join since it wasn't letting me for some reason, but managed to work around it by using the web version. 
+This was via Teams. At first, I struggled to join since it wasn't letting me for some reason, but managed to work around it by using the web version. 
 
 * The first part consisted of my being given a dataset (a few hours before it was actually scheduled to start) and asked to find any relationships from the dataset with the intention of trading the asset. Now, the file only contained the stock price and eight signals (without a description on what the signals were), so I had to reason solely on the values (i.e, the trends) when performing the analysis. I more or less did it using just correlations.
 * After that, I (and the partner - I was first) had to present their analysis. And [interviewer] seemed to not like the way I used correlations. According to him, he thought that it was a mistake and thought I didn't know what a predictive power function was. Now, I do know that correlations have their limitations, and he correctly pointed out that (for instance) a quadratic model cannot be properly handled using correlations (but can with a predictive power). But I personally didn't agree with the assertion that my usage of correlations was improper - after all, you need a ML model if you take the predictive power route. TLDR; yes predictive power is better, but correlations isn't "useless"
