@@ -34,7 +34,7 @@ Was by Microsoft Teams by [lead engineer]. The interview roughly went like this:
 
 * First they introduced themselves. This was around the time I asked them about the PhD question. Turns out that they were looking for people from various background, and felt that a masters provided some of the necessary research experience they were looking for.
 * Then I was asked to (sort of) describe a project/work - which I did explain in some detail.
-* After that, I was served a LeetCode Medium - coin change (greedy-friendly). It seems like Microsoft _really_ likes such problems, since they asked this in the [last time I managed to get to the finals with them](../2021-22/Microsoft/UK New Grad.md). I coded it up, and he asked related questions (such as factors to consider if this was to production)
+* After that, I was served a LeetCode Medium - coin change (greedy-friendly). It seems like Microsoft _really_ likes such problems, since they asked this in the [last time I managed to get to the finals with them](../../2021-22/Microsoft/UK New Grad.md). I coded it up, and he asked related questions (such as factors to consider if this was to production)
 * I was given the chance to ask questions.
 
 This took about 50 minutes in total.
