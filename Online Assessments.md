@@ -27,7 +27,7 @@ exists); the reason is that it takes linear time to input the test array
 itself! With that in mind,
 
   - If \(_n_ > 10<sup>4</sup>\), aim for a O(_n_) or a
-    O(_n_ log _n_) solution.
+    O(_n_ log _n_) solution. Keep in mind that it's very unusual for a solution not to work in O(n log n) but work in O(n).
 
   - If \(_n_ > 10<sup>3</sup>\), aim for a O(_n_<sup>2</sup>) solution
 
@@ -36,13 +36,13 @@ itself! With that in mind,
   - If \(_n_ < 20\), a O(2<sup>_n_</sup>) solution should be fine.
 
 A good idea is to start from an inefficient solution and work your way
-upwards, improving the complexity along the way. You could find out (for
+upwards, improving the complexity along the way (there's a saying out there that goes along the lines of "pick the weakest/slowest solution that works"). You could find out (for
 HackerRank) that a supposedly inefficient solution actually works well!
 Also note that while an inefficient but working solution will get you
 some points, an efficient but broken solution is useless as no marks are
 given for “effort” (in general). Plus you can often “game” the system a bit in such
 cases to collect a few more points by leveraging the properties of edge
-cases, for instance. Similarly, don't bother about "beautifying" or making code clean unless otherwise asked to - most of the time, your code will not even be read at all! Working and efficient but dirty code is almost always better than clean code that doesn't work.
+cases, for instance. Similarly, don't bother about "beautifying" or making code clean unless otherwise asked to - most of the time, your code will not even be read at all! Working and efficient but dirty code is almost always better than clean code that doesn't work. 
 
 A common question is whether you can look up on the internet when
 completing these tests. The answer is generally yes, unless you’ve been
@@ -160,6 +160,7 @@ in the questions you’ll get compared to the other test types. For the
     * https://leetcode.com/problems/reshape-the-matrix/
     * https://leetcode.com/problems/toeplitz-matrix/
     * https://leetcode.com/problems/image-overlap/
+    * https://leetcode.com/problems/largest-local-values-in-a-matrix/
     * https://leetcode.com/problems/transpose-matrix/
     * https://leetcode.com/problems/text-justification - this is on the harder side but is a good example of a string-based implementation problem for Q3
     
@@ -167,7 +168,7 @@ in the questions you’ll get compared to the other test types. For the
     </details>
 
   - Q4 is a purely algorithmic LeetCode Medium problem – here you will
-    need to focus on getting the time complexity optimal. From
+    need to focus on making sure that the time complexity is optimal. From
     experience Q4 normally involves a clever application of hashmaps and
     it is expected that you know how to work with it properly inside and out. While
     greedy problems are technically possible, DP (dynamic programming)
@@ -184,6 +185,9 @@ in the questions you’ll get compared to the other test types. For the
       * https://leetcode.com/problems/3sum-with-multiplicity/
       * https://leetcode.com/problems/count-number-of-nice-subarrays/
       * https://leetcode.com/problems/k-diff-pairs-in-an-array/
+      * https://leetcode.com/problems/diagonal-traverse-ii/
+      * https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/description/
+      * https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/
   
     Aim to get them in 20-30 minutes or so.
     </details>
@@ -222,6 +226,8 @@ In rare cases (such as SIG), you may be given a non-GCA examination (wherein the
 questions are written by the company, much like HackerRank, and there is
 no scaled score), in which case most of what was written for the HackerRank section would
 apply instead. It's easy to find out if an exam is GCA - this will be clearly mentioned. 
+
+Note that this guide does not cover tests such as CodeSignal's Data Science and Industry Coding frameworks (though there is a [nice guide](https://github.com/PaulLockett/CodeSignal_Practice_Industry_Coding_Framework) for the latter). 
 
 ### HireVue
 
@@ -353,6 +359,16 @@ a university-level module in each of them). It’s usually 30 minutes/8 question
 minutes/15 questions, the questions are time-consuming, and it’s easy
 to run out of time, so good time management is very important. As with
 some others, you are not given a score upon completion.
+
+### SIG's Problem Solving Assessment
+
+_The below applies to the 1 hour entrance exam for the quant research roles; other roles are likely to have a different process._
+
+This ia a one-hour entrance exam with 15 questions with questions from probability, statistics, one or two brainteasers, and single-variable calculus.
+
+* It is very easy to lose track of time - skipping questions you don't know and checking your work is very important. (This was my biggest mistake BTW)
+* The documentation SIG gives about the test is misleading. It isn't correct that you can't skip - you can easily move back and forth - and (I think) the same applies to switching between sections. 
+* Make sure to have a graphing calculator - some of the questions can be very computation-heavy otherwise. It helps if the graphing calculator has a CAS (computer algebra system), because this will make computing derivatives and integrals easier. Note that while SIG claims that you cannot access anything outside the Mettl environment, this does not appear to be true and hence you should be able to use calculators on your computer (but I'm not entirely sure there).
 
 ### Situational Judgement Tests (SJT)
 

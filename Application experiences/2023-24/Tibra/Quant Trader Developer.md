@@ -146,7 +146,7 @@ Kind regards,
 
 </blockquote>
 
-Better than nothing, but still rather vauge in that they didn't expand on the points mentioned. I tried to get that clarified:
+Better than nothing, but still rather vague in that they didn't expand on the points mentioned. I tried to get that clarified:
 
 > That does help, but can you expand on whether I was penalised on the first (i.e, the data analytics part), second (i.e, the group task part) or both? Thanks in advance.
 

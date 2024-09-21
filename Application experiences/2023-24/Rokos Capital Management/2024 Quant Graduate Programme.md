@@ -225,6 +225,8 @@ Didn't find that hard. Then, the third part, which I found trickier:
 
 The problem was that I unfortunately seemed to have a different intuition from what the correct answer was. For instance, consider the first part. I quoted $99 and $101 respectively. Now after the person brought 5 stocks for me, I said $99.5 and $100.5 instead (i.e, narrowing the spread). When questioned why, I reasoned that the person coming back the next day (after buying) could imply that they might have found another buyer, and hence the spread needs to be narrowed as otherwise they would buy it from someone else. According to the interviewer (and my father said the same later on), this reasoning is not correct. The reason is that the person buying 5 stocks signifies _demand_ - which means that you can afford to _increase_ the spread - not reduce it. However, when I was asked to give the bid and ask price again, (using the reasoning given by the interviewer), I increased the spread. To that I was told on the lines of "watch out - if the spread is too high they'd just buy it from someone else" - which is the exact reasoning I used earlier, so... According to my father, the "mistakes" I made was a direct result of my having insufficient finance knowledge and experience. The interviewer also mentioned that the bid and ask prices should be based on the expectations of _all_ possible beliefs - but then I clearly mentioned that I was considering a _specific_ case. 
 
+After that, a brainteaser - the classic 25 horses' problem. The problem started with finding the minimum number of races required to determine the winner, and then I was asked to talk through how I'd find the top three races. The interviewer was kind of in a hurry though by that point. 
+
 That was the end of this stage. Not perfect, but better than the horrific part 1. 
 
 #### Part 3 (Core Strategy)
@@ -420,7 +422,7 @@ At that point, we already took over an hour (15 minutes more than estimated), an
 
 ### Notification of failure
 
-The interview was set up as a two-stage process - the last two non-technical interviews would happen only if you got through the first three technical interviews. And predictably, that did not happen:
+The finals were set up as a two-stage process - the last two non-technical interviews would happen only if you got through the first three technical interviews. And predictably, that did not happen:
 
 <blockquote>
 Hi Leader
@@ -429,7 +431,7 @@ Thank you so much for your effort and attention on this morning’s interviews.
 
 Unfortunately we have decided against progressing your application to the afternoon interviews – I appreciate this is disappointing news but the calibre of candidates was exceptionally high and the team have had to make some incredibly difficult decisions.
 
-Whilst you were strong technically and impressed in your Core Quant interview with [core quant interviewr], there were question marks over your approach and communication style. Some interviewers felt you jumped into answers before thinking which led to sub-optimal solutions across both the Core Quant and Trading Strategy interviews.
+Whilst you were strong technically and impressed in your Core Quant interview with [core quant interviewer], there were question marks over your approach and communication style. Some interviewers felt you jumped into answers before thinking which led to sub-optimal solutions across both the Core Quant and Trading Strategy interviews.
 
 Thank you for your time and interest in RCM and we wish you the absolute best of luck in the future.
 
