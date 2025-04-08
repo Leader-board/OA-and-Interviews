@@ -26,7 +26,7 @@ I finished them off quickly and correctly (in about 30 seconds). And that was th
     <summary>The answers to the brainteasers:</summary>
 
 * For the main question, let 0 degrees be the number 12 of the clock. Then, the minute hand would be 90° from the number 12. The hour hand would be 150 + (30/4) = 157.5°. The difference is hence |157.5°-90°|=67.5°
-* For the follow-up, let _x_ be the minute. Then we need to find the angle subtended by the hour hand - from the first part, this is (150 + (30)_x_/60)°. The angle subtended by the minute hand is simply (6*x*)°. Solve for _x_: 150 + _x_/2 = 6*x* -> 150 = 11x/2 -> _x_ = 300/11. The answer can be shown to be somewhere between 5:27 and 5:28 PM. 
+* For the follow-up, let _x_ be the minute. Then we need to find the angle subtended by the hour hand - from the first part, this is (67.5 + (30)_x_/60)°. The angle subtended by the minute hand is simply (6*x*)°. Solve for _x_: 67.5 + _x_/2 = 6*x* -> 67.5 = 11x/2 -> _x_ = 135/11. The answer can be shown to be somewhere between 5:27 and 5:28 PM. 
  </details>
 
 ### Notification of failure
