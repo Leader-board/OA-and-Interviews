@@ -162,6 +162,7 @@ in the questions you’ll get compared to the other test types. For the
     * https://leetcode.com/problems/image-overlap/
     * https://leetcode.com/problems/largest-local-values-in-a-matrix/
     * https://leetcode.com/problems/transpose-matrix/
+    * https://leetcode.com/problems/count-square-submatrices-with-all-ones
     * https://leetcode.com/problems/text-justification - this is on the harder side but is a good example of a string-based implementation problem for Q3
     
     Aim to get them in 15-20 minutes or so. 
@@ -188,6 +189,7 @@ in the questions you’ll get compared to the other test types. For the
       * https://leetcode.com/problems/diagonal-traverse-ii/
       * https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/description/
       * https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/
+      * https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits
   
     Aim to get them in 20-30 minutes or so.
     </details>
